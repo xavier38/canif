@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Higo — le couteau suisse de votre Mac</title>
+<link rel="icon" href="icon.png">
+<meta name="description" content="Higo réunit 11 petits outils du Mac dans une seule app gratuite : WiFi, horloges, DNS, couleur de l'écran, dictée, aperçu du Dock, rangement des fenêtres…">
+<meta property="og:title" content="Higo — le couteau suisse de votre Mac">
+<meta property="og:image" content="https://xavier38.github.io/higo/promo.jpg">
+<style>
+  :root { --bg:#f3f7fc; --card:#fff; --ink:#0f1c2e; --muted:#4f5f73; --moss:#1f5fae; --forest:#1B3F6E; --line:#d8e2ee; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#0f1622; --card:#172233; --ink:#e8f0fa; --muted:#a3b2c6; --line:#26354a; --moss:#7fb2f0; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  main { max-width:860px; margin:0 auto; padding:34px 18px 60px; }
+  .retour { display:inline-block; margin-bottom:10px; color:var(--moss); text-decoration:none; font-weight:600; }
+  h1 { font-size:36px; margin:8px 0 4px; } h2 { font-size:24px; margin:40px 0 12px; }
+  .tag { color:var(--muted); font-size:19px; margin:0 0 18px; }
+  .btns { display:flex; flex-wrap:wrap; gap:12px; margin:18px 0; }
+  .btn { display:inline-flex; align-items:center; gap:8px; padding:12px 22px; border-radius:999px; font-weight:700; text-decoration:none; color:#fff; background:linear-gradient(135deg,#2F6DB5,#1B3F6E); }
+  .btn.cafe { background:#8a5522; } .btn.plain { background:var(--card); color:var(--ink); border:1px solid var(--line); }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:14px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:18px; } .card h3 { margin:0 0 6px; font-size:18px; } .card p { margin:0; color:var(--muted); font-size:15px; }
+  img.promo { width:100%; border-radius:18px; margin:6px 0 4px; }
+  ol.etapes { padding-left:0; list-style:none; counter-reset:e; } ol.etapes li { counter-increment:e; background:var(--card); border:1px solid var(--line); border-radius:16px; padding:16px 16px 16px 64px; margin:12px 0; position:relative; }
+  ol.etapes li::before { content:counter(e); position:absolute; left:16px; top:14px; width:34px; height:34px; border-radius:50%; background:var(--moss); color:#fff; font-weight:700; display:grid; place-items:center; }
+  ol.etapes b { display:block; margin-bottom:2px; } .note { background:var(--card); border-left:4px solid #cc5c00; border-radius:8px; padding:12px 16px; margin:14px 0; color:var(--muted); font-size:15px; }
+  footer { text-align:center; color:var(--muted); font-size:14px; margin-top:44px; } footer a { color:var(--moss); }
+  .lang-en { display:none; } html.en .lang-fr { display:none; } html.en .lang-en { display:revert; }
+  .switch { position:absolute; top:12px; right:16px; font-size:14px; } .switch a { color:var(--muted); cursor:pointer; }
+</style>
+</head>
+<body>
+<div class="switch"><a onclick="document.documentElement.classList.toggle('en')">FR / EN</a></div>
+<main>
+  <div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap">
+    <img src="icon.png" alt="Higo" width="96" height="96" style="border-radius:22px;box-shadow:0 8px 22px rgba(0,0,0,.2)">
+    <div><h1>Higo</h1>
+      <p class="tag lang-fr">Le couteau suisse de votre Mac : 11 outils dans une seule app.</p><p class="tag lang-en">Your Mac's Swiss army knife: 11 tools in one app.</p></div>
+  </div>
+  <div class="btns">
+    <a class="btn" href="https://github.com/xavier38/higo/releases/latest/download/Higo.zip">⬇︎ <span class="lang-fr">Télécharger Higo</span><span class="lang-en">Download Higo</span></a>
+    <a class="btn plain" href="installation.html"><span class="lang-fr">Installer pas à pas →</span><span class="lang-en">Step-by-step install →</span></a>
+    <a class="btn cafe" href="cafe.html">☕ <span class="lang-fr">Offrez-moi un café</span><span class="lang-en">Buy me a coffee</span></a>
+  </div>
+  <p class="tag lang-fr" style="font-size:15px">Gratuit. macOS 14 Sonoma ou plus récent, Mac Apple Silicon (M1 ou plus récent).</p>
+  <p class="tag lang-en" style="font-size:15px">Free. macOS 14 Sonoma or later, Apple Silicon Mac (M1 or later).</p>
+  <img class="promo" src="promo.jpg" alt="Higo : l'accueil avec ses 11 outils">
+
+  <h2 class="lang-fr">Une app au lieu de onze</h2><h2 class="lang-en">One app instead of eleven</h2>
+  <p class="lang-fr">Chaque outil s'active ou se coupe d'un clic. Mode standard pour aller à l'essentiel, mode expert pour tout régler. Tout se commande depuis l'icône en haut de l'écran.</p>
+  <p class="lang-en">Each tool turns on or off with one click. Standard mode for the essentials, expert mode to fine-tune everything. Everything is reachable from the icon at the top of the screen.</p>
+  <div class="grid">
+    <div class="card"><h3 class="lang-fr">WiFi</h3><h3 class="lang-en">WiFi</h3>
+      <p class="lang-fr">La qualité de votre WiFi en un coup d'œil, avec le signal en direct. <i>Remplace WiFi Signal.</i></p><p class="lang-en">Your WiFi quality at a glance, with live signal. <i>Replaces WiFi Signal.</i></p></div>
+    <div class="card"><h3 class="lang-fr">Horloges</h3><h3 class="lang-en">Clocks</h3>
+      <p class="lang-fr">L'heure de vos villes préférées dans la barre des menus. <i>Remplace Clocker.</i></p><p class="lang-en">The time in your favourite cities, in the menu bar. <i>Replaces Clocker.</i></p></div>
+    <div class="card"><h3 class="lang-fr">DNS</h3><h3 class="lang-en">DNS</h3>
+      <p class="lang-fr">Changez de DNS en un clic : plus rapide, plus sûr, sans pub. <i>Remplace DNS Easy Switcher.</i></p><p class="lang-en">Switch DNS in one click: faster, safer, ad-free. <i>Replaces DNS Easy Switcher.</i></p></div>
+    <div class="card"><h3 class="lang-fr">Couleur de l'écran</h3><h3 class="lang-en">Screen colour</h3>
+      <p class="lang-fr">Moins de lumière bleue le soir, avec horaires et transition douce. <i>Remplace f.lux.</i></p><p class="lang-en">Less blue light in the evening, with schedules and smooth transition. <i>Replaces f.lux.</i></p></div>
+    <div class="card"><h3 class="lang-fr">Garder éveillé</h3><h3 class="lang-en">Keep awake</h3>
+      <p class="lang-fr">Empêchez le Mac de s'endormir, le temps qu'il faut. <i>Remplace Amphetamine.</i></p><p class="lang-en">Keep your Mac awake for as long as you need. <i>Replaces Amphetamine.</i></p></div>
+    <div class="card"><h3 class="lang-fr">Aperçu du Dock</h3><h3 class="lang-en">Dock preview</h3>
+      <p class="lang-fr">Survolez une icône du Dock pour voir ses fenêtres et l'agenda du jour. <i>Remplace DockDoor.</i></p><p class="lang-en">Hover a Dock icon to see its windows and today's calendar. <i>Replaces DockDoor.</i></p></div>
+    <div class="card"><h3 class="lang-fr">Ranger les fenêtres</h3><h3 class="lang-en">Window snapping</h3>
+      <p class="lang-fr">Glissez une fenêtre contre un bord, ou ⌃⌥ + flèche. <i>Remplace Tiles.</i></p><p class="lang-en">Drag a window to an edge, or ⌃⌥ + arrow. <i>Replaces Tiles.</i></p></div>
+    <div class="card"><h3 class="lang-fr">Dictée</h3><h3 class="lang-en">Dictation</h3>
+      <p class="lang-fr">Maintenez un raccourci et parlez : le texte s'écrit tout seul, sans internet. <i>Remplace Handy.</i></p><p class="lang-en">Hold a shortcut and speak: the text types itself, offline. <i>Replaces Handy.</i></p></div>
+    <div class="card"><h3 class="lang-fr">Couper-coller</h3><h3 class="lang-en">Cut and paste</h3>
+      <p class="lang-fr">⌘X puis ⌘V pour déplacer des fichiers dans le Finder. <i>Remplace Command X.</i></p><p class="lang-en">⌘X then ⌘V to move files in the Finder. <i>Replaces Command X.</i></p></div>
+    <div class="card"><h3 class="lang-fr">Majuscules</h3><h3 class="lang-en">Caps Lock</h3>
+      <p class="lang-fr">Voyez tout de suite quand le verrouillage des majuscules est activé. <i>Remplace Captin.</i></p><p class="lang-en">See at once when Caps Lock is on. <i>Replaces Captin.</i></p></div>
+    <div class="card"><h3 class="lang-fr">Alertes web</h3><h3 class="lang-en">Web alerts</h3>
+      <p class="lang-fr">Soyez prévenu quand une partie d'une page web change. <i>Remplace Web Alert.</i></p><p class="lang-en">Get notified when part of a web page changes. <i>Replaces Web Alert.</i></p></div>
+  </div>
+  <footer>
+    <p class="lang-fr">Higo est gratuit. S'il vous rend service, <a href="cafe.html">offrez-moi un café</a>. · <a href="confidentialite.html">Confidentialité</a></p>
+    <p class="lang-en">Higo is free. If it helps you, <a href="cafe.html">buy me a coffee</a>. · <a href="confidentialite.html">Privacy</a></p>
+  </footer>
+</main>
+<script>if ((navigator.language || "fr").toLowerCase().indexOf("fr") !== 0) document.documentElement.classList.add("en");</script>
+</body>
+</html>

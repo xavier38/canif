@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Installer Higo pas à pas</title>
+<link rel="icon" href="icon.png">
+<meta name="description" content="Installer Higo sur votre Mac en six étapes.">
+<meta property="og:title" content="Higo — le couteau suisse de votre Mac">
+<meta property="og:image" content="https://xavier38.github.io/higo/promo.jpg">
+<style>
+  :root { --bg:#f3f7fc; --card:#fff; --ink:#0f1c2e; --muted:#4f5f73; --moss:#1f5fae; --forest:#1B3F6E; --line:#d8e2ee; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#0f1622; --card:#172233; --ink:#e8f0fa; --muted:#a3b2c6; --line:#26354a; --moss:#7fb2f0; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  main { max-width:860px; margin:0 auto; padding:34px 18px 60px; }
+  .retour { display:inline-block; margin-bottom:10px; color:var(--moss); text-decoration:none; font-weight:600; }
+  h1 { font-size:36px; margin:8px 0 4px; } h2 { font-size:24px; margin:40px 0 12px; }
+  .tag { color:var(--muted); font-size:19px; margin:0 0 18px; }
+  .btns { display:flex; flex-wrap:wrap; gap:12px; margin:18px 0; }
+  .btn { display:inline-flex; align-items:center; gap:8px; padding:12px 22px; border-radius:999px; font-weight:700; text-decoration:none; color:#fff; background:linear-gradient(135deg,#2F6DB5,#1B3F6E); }
+  .btn.cafe { background:#8a5522; } .btn.plain { background:var(--card); color:var(--ink); border:1px solid var(--line); }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:14px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:18px; } .card h3 { margin:0 0 6px; font-size:18px; } .card p { margin:0; color:var(--muted); font-size:15px; }
+  img.promo { width:100%; border-radius:18px; margin:6px 0 4px; }
+  ol.etapes { padding-left:0; list-style:none; counter-reset:e; } ol.etapes li { counter-increment:e; background:var(--card); border:1px solid var(--line); border-radius:16px; padding:16px 16px 16px 64px; margin:12px 0; position:relative; }
+  ol.etapes li::before { content:counter(e); position:absolute; left:16px; top:14px; width:34px; height:34px; border-radius:50%; background:var(--moss); color:#fff; font-weight:700; display:grid; place-items:center; }
+  ol.etapes b { display:block; margin-bottom:2px; } .note { background:var(--card); border-left:4px solid #cc5c00; border-radius:8px; padding:12px 16px; margin:14px 0; color:var(--muted); font-size:15px; }
+  footer { text-align:center; color:var(--muted); font-size:14px; margin-top:44px; } footer a { color:var(--moss); }
+  .lang-en { display:none; } html.en .lang-fr { display:none; } html.en .lang-en { display:revert; }
+  .switch { position:absolute; top:12px; right:16px; font-size:14px; } .switch a { color:var(--muted); cursor:pointer; }
+</style>
+</head>
+<body>
+<div class="switch"><a onclick="document.documentElement.classList.toggle('en')">FR / EN</a></div>
+<main>
+  <a class="retour" href="index.html">← Higo</a>
+  <h1 class="lang-fr">Installer Higo pas à pas</h1><h1 class="lang-en">Install Higo step by step</h1>
+  <p class="tag lang-fr">Six étapes, environ cinq minutes. Il faut un Mac Apple Silicon (M1 ou plus récent) sous macOS 14 Sonoma ou plus récent.</p>
+  <p class="tag lang-en">Six steps, about five minutes. You need an Apple Silicon Mac (M1 or later) running macOS 14 Sonoma or later.</p>
+  <div class="btns"><a class="btn" href="https://github.com/xavier38/higo/releases/latest/download/Higo.zip">⬇︎ <span class="lang-fr">Télécharger Higo.zip</span><span class="lang-en">Download Higo.zip</span></a></div>
+  <ol class="etapes">
+    <li class="lang-fr"><b>Ouvrez le fichier téléchargé</b>Double-cliquez sur <code>Higo.zip</code> dans le dossier Téléchargements : l'app <code>Higo</code> apparaît.</li>
+    <li class="lang-en"><b>Open the downloaded file</b>Double-click <code>Higo.zip</code> in your Downloads folder: the <code>Higo</code> app appears.</li>
+    <li class="lang-fr"><b>Mettez-la dans Applications</b>Glissez <code>Higo</code> dans le dossier <b style="display:inline">Applications</b> (colonne de gauche du Finder).</li>
+    <li class="lang-en"><b>Move it to Applications</b>Drag <code>Higo</code> into the <b style="display:inline">Applications</b> folder (left column of the Finder).</li>
+    <li class="lang-fr"><b>Ouvrez-la une première fois</b>Faites un <b style="display:inline">clic droit</b> (ou Ctrl + clic) sur Higo, puis <b style="display:inline">Ouvrir</b>, puis <b style="display:inline">Ouvrir</b> de nouveau. macOS demande cette confirmation parce que Higo ne vient pas de l'App Store. Si le bouton « Ouvrir » n'apparaît pas : Réglages Système, Confidentialité et sécurité, tout en bas, <b style="display:inline">Ouvrir quand même</b>.</li>
+    <li class="lang-en"><b>Open it the first time</b><b style="display:inline">Right-click</b> (or Ctrl-click) Higo, then <b style="display:inline">Open</b>, then <b style="display:inline">Open</b> again. macOS asks for this because Higo does not come from the App Store. If there is no “Open” button: System Settings, Privacy &amp; Security, at the bottom, <b style="display:inline">Open Anyway</b>.</li>
+    <li class="lang-fr"><b>Trouvez l'icône</b>Un petit couteau suisse apparaît en haut de l'écran, dans la barre des menus. Cliquez dessus : les outils s'affichent. La roue dentée ouvre la fenêtre de Higo.</li>
+    <li class="lang-en"><b>Find the icon</b>A small Swiss army knife appears at the top of the screen, in the menu bar. Click it: the tools appear. The gear opens the Higo window.</li>
+    <li class="lang-fr"><b>Donnez les autorisations</b>Dans Higo, rubrique <b style="display:inline">Général</b>, section <b style="display:inline">Autorisations</b> : un bouton par autorisation (Accessibilité pour ranger les fenêtres, l'aperçu du Dock et le couper-coller ; Micro pour la dictée ; Localisation pour le nom du WiFi). Seuls les outils que vous utilisez en ont besoin.</li>
+    <li class="lang-en"><b>Grant permissions</b>In Higo, <b style="display:inline">General</b>, <b style="display:inline">Permissions</b>: one button per permission (Accessibility for window snapping, Dock preview and cut-paste; Microphone for dictation; Location for the WiFi name). Only the tools you use need them.</li>
+    <li class="lang-fr"><b>Choisissez vos outils</b>Rubrique <b style="display:inline">Accueil</b> : un interrupteur par outil. Coupez ceux dont vous n'avez pas besoin.</li>
+    <li class="lang-en"><b>Pick your tools</b><b style="display:inline">Home</b>: one switch per tool. Turn off the ones you don't need.</li>
+  </ol>
+  <p class="note lang-fr">La dictée a besoin d'un modèle de reconnaissance vocale (environ 630 Mo). Higo vous propose de l'installer la première fois que vous ouvrez l'outil Dictée ; ensuite tout fonctionne sans internet.</p>
+  <p class="note lang-en">Dictation needs a speech recognition model (about 630 MB). Higo offers to install it the first time you open the Dictation tool; after that everything works offline.</p>
+  <footer><p class="lang-fr">Un souci ? Écrivez-moi depuis Higo, rubrique « Nous écrire ». Et si Higo vous plaît, <a href="cafe.html">offrez-moi un café</a>.</p><p class="lang-en">A problem? Write to me from Higo, “Contact us”. And if you like Higo, <a href="cafe.html">buy me a coffee</a>.</p></footer>
+</main>
+<script>if ((navigator.language || "fr").toLowerCase().indexOf("fr") !== 0) document.documentElement.classList.add("en");</script>
+</body>
+</html>
