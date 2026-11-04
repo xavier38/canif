@@ -2,8 +2,8 @@
 
 <h1 align="center">Canif</h1>
 
-<p align="center"><b>Le couteau suisse de votre Mac : 26 outils dans une seule app, gratuite, en 7 langues.</b><br>
-Your Mac's Swiss army knife: 26 tools in one free app, in 7 languages.</p>
+<p align="center"><b>Le couteau suisse de votre Mac : 27 outils dans une seule app, gratuite, en 7 langues.</b><br>
+Your Mac's Swiss army knife: 27 tools in one free app, in 7 languages.</p>
 
 <p align="center">
 <a href="https://github.com/xavier38/canif/releases/latest/download/Canif.zip"><b>⬇︎ Télécharger / Download Canif.zip</b></a> ·
@@ -16,7 +16,7 @@ Your Mac's Swiss army knife: 26 tools in one free app, in 7 languages.</p>
 
 Version 0.4.0 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## 🇫🇷 Les 26 outils
+## 🇫🇷 Les 27 outils
 
 | Outil | Ce qu'il fait |
 |---|---|
@@ -46,12 +46,13 @@ Version 0.4.0 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Ma
 | 🗑️ **Désinstaller** | Désinstallez une app et tous ses fichiers cachés, en un geste. |
 | 🖱️ **Clavier et souris** | Comme Mos et SlowQuit : molette douce, sens de défilement séparé, ⌘Q protégé et nettoyage du clavier. |
 | 🍅 **Pomodoro** | Travaillez par séances de 25 minutes, avec de vraies pauses. |
+| 🗒️ **Aide-mémoire** | Des notes autocollantes sur le bureau, enregistrées toutes seules (remplace l'Aide-mémoire de macOS). |
 
 Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou expert, et se commande depuis l'icône en haut de l'écran. Sons de notification au choix pour tous les outils. Les icônes des outils se placent juste à côté de celle de Canif.
 
 **Nouveau dans la 0.4.0 :** 11 nouveaux outils, Encoche complète, nouvelles couleurs du WiFi, beaucoup moins de processeur au repos (environ 5 % → moins de 1 %), sécurité renforcée (hardened runtime, validation des DNS saisis, liens et téléchargements plus sûrs dans les apps web).
 
-## 🇬🇧 The 26 tools
+## 🇬🇧 The 27 tools
 
 | Tool | What it does |
 |---|---|
@@ -81,6 +82,7 @@ Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou exper
 | 🗑️ **Uninstall** | Uninstall an app and all its hidden files in one go. |
 | 🖱️ **Keyboard and mouse** | Like Mos and SlowQuit: smooth scroll wheel, separate scroll directions, protected ⌘Q and keyboard cleaning. |
 | 🍅 **Pomodoro** | Work in 25-minute sessions, with real breaks. |
+| 🗒️ **Stickies** | Sticky notes on your desktop, saved automatically (replaces macOS Stickies). |
 
 Each tool turns on or off with one click, has standard and expert settings, and is controlled from the icon at the top of the screen. The tools' icons sit right next to Canif's.
 
@@ -88,11 +90,11 @@ Each tool turns on or off with one click, has standard and expert settings, and 
 
 ## 🌍 Other languages
 
-- 🇪🇸 La navaja suiza de su Mac: 26 herramientas en una sola app, en 7 idiomas. → [Sitio](https://xavier38.github.io/canif/)
-- 🇧🇷 O canivete suíço do seu Mac: 26 ferramentas em um só app, em 7 idiomas. → [Site](https://xavier38.github.io/canif/)
-- 🇳🇱 Het Zwitserse zakmes van uw Mac: 26 tools in één app, in 7 talen. → [Website](https://xavier38.github.io/canif/)
-- 🇩🇪 Das Schweizer Taschenmesser für Ihren Mac: 26 Werkzeuge in einer App, in 7 Sprachen. → [Website](https://xavier38.github.io/canif/)
-- 🇮🇹 Il coltellino svizzero del tuo Mac: 26 strumenti in un'unica app, in 7 lingue. → [Sito](https://xavier38.github.io/canif/)
+- 🇪🇸 La navaja suiza de su Mac: 27 herramientas en una sola app, en 7 idiomas. → [Sitio](https://xavier38.github.io/canif/)
+- 🇧🇷 O canivete suíço do seu Mac: 27 ferramentas em um só app, em 7 idiomas. → [Site](https://xavier38.github.io/canif/)
+- 🇳🇱 Het Zwitserse zakmes van uw Mac: 27 tools in één app, in 7 talen. → [Website](https://xavier38.github.io/canif/)
+- 🇩🇪 Das Schweizer Taschenmesser für Ihren Mac: 27 Werkzeuge in einer App, in 7 Sprachen. → [Website](https://xavier38.github.io/canif/)
+- 🇮🇹 Il coltellino svizzero del tuo Mac: 27 strumenti in un'unica app, in 7 lingue. → [Sito](https://xavier38.github.io/canif/)
 
 Langues de l'app / App languages: Français, English, Español, Português (Brasil), Nederlands, Deutsch, Italiano.
 
