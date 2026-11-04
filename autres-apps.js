@@ -56,7 +56,7 @@
     var cards = APPS.filter(function (a) { return a.id !== current; }).map(function (a) {
       return '<div class="aa-card"><a href="' + a.site + '"><img src="' + a.icon + '" alt="' + a.name + '"></a><div>' +
         '<h3>' + a.name + '</h3><p class="aa-tag">' + a.tag[l] + '</p>' +
-        '<div class="aa-links"><a href="' + a.site + '">' + t.site + ' →</a><a href="' + a.repo + '">' + t.repo + '</a></div></div></div>';
+        '<div class="aa-links"><a href="' + a.site + '">' + t.site + ' →</a></div></div></div>';
     }).join("");
     root.innerHTML = "<h2>" + t.title + '</h2><p class="aa-lead">' + t.lead + '</p><div class="aa-grid">' + cards + "</div>";
   }
