@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="fr">
+<html lang="fr" data-title-fr="Canif — Politique de confidentialité" data-title-en="Canif — Privacy policy" data-title-es="Canif — Política de privacidad" data-title-pt="Canif — Política de privacidade" data-title-nl="Canif — Privacybeleid" data-title-de="Canif — Datenschutzerklärung" data-title-it="Canif — Informativa sulla privacy">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Canif — Politique de confidentialité</title>
-<meta name="description" content="Canif garde vos fichiers entre vos clouds et votre ordinateur. Rien ne passe par un serveur du développeur.">
+<meta name="description" content="Canif travaille sur votre Mac : pas de compte, pas de publicité, statistiques anonymes seulement si vous les activez.">
 <link rel="icon" href="icon.png">
 <style>
   :root { --bg:#f3f7fc; --card:#fff; --ink:#0f1c2e; --muted:#4f5f73; --moss:#2f6b0e; --line:#d8e2ee; }
@@ -20,22 +20,22 @@
   .muted { color:var(--muted); font-size:15px; }
   a { color:var(--moss); }
   .box { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:4px 20px 14px; margin-top:20px; }
-  [lang="en"] { display:none; }
-  html.en [lang="fr"] { display:none; } html.en [lang="en"] { display:revert; }
-  .switch { position:absolute; top:12px; right:16px; font-size:14px; }
-  .switch a { color:var(--muted); text-decoration:none; cursor:pointer; }
 </style>
 </head>
 <body>
-<div class="switch"><a onclick="document.documentElement.classList.toggle('en')">FR / EN</a></div>
 <main>
-  <header><img src="icon.png" alt="Canif"><h1 lang="fr">Politique de confidentialité</h1><h1 lang="en">Privacy policy</h1></header>
-  <p class="muted" lang="fr">Application Canif · dernière mise à jour : 3 novembre 2026 · <a href="index.html">Page d'accueil</a></p>
-  <p class="muted" lang="en">Canif app · last updated: November 3, 2026 · <a href="index.html">Home page</a></p>
-  <div lang="fr">
+  <header><img src="icon.png" alt="Canif"><h1 class="lang-fr">Politique de confidentialité</h1><h1 class="lang-en">Privacy policy</h1><h1 class="lang-es">Política de privacidad</h1><h1 class="lang-pt">Política de privacidade</h1><h1 class="lang-nl">Privacybeleid</h1><h1 class="lang-de">Datenschutzerklärung</h1><h1 class="lang-it">Informativa sulla privacy</h1></header>
+  <p class="muted lang-fr">Application Canif · dernière mise à jour : 4 novembre 2026 · <a href="index.html">Page d'accueil</a></p>
+  <p class="muted lang-en">Canif app · last updated: November 4, 2026 · <a href="index.html">Home page</a></p>
+  <p class="muted lang-es">App Canif · última actualización: 4 de noviembre de 2026 · <a href="index.html">Página de inicio</a></p>
+  <p class="muted lang-pt">App Canif · última atualização: 4 de novembro de 2026 · <a href="index.html">Página inicial</a></p>
+  <p class="muted lang-nl">App Canif · laatst bijgewerkt: 4 november 2026 · <a href="index.html">Startpagina</a></p>
+  <p class="muted lang-de">App Canif · zuletzt aktualisiert: 4. November 2026 · <a href="index.html">Startseite</a></p>
+  <p class="muted lang-it">App Canif · ultimo aggiornamento: 4 novembre 2026 · <a href="index.html">Pagina iniziale</a></p>
+  <div class="lang-fr">
     <div class="box">
       <h2>En une phrase</h2>
-      <p>Canif travaille uniquement sur votre Mac. Le développeur n'a aucun serveur, ne reçoit rien et ne voit rien de ce que vous faites : pas de compte, pas de publicité, pas de statistiques d'utilisation.</p>
+      <p>Canif travaille sur votre Mac. Pas de compte, pas de publicité. Le développeur ne voit rien de ce que vous faites et ne reçoit des statistiques anonymes que si vous cochez « Aider à améliorer Canif » (désactivé au départ).</p>
     </div>
     <h2>Ce à quoi Canif accède, et pourquoi</h2>
     <ul>
@@ -52,14 +52,17 @@
       <li><strong>DNS</strong> : pour mesurer la rapidité des serveurs DNS, quand vous le demandez.</li>
       <li><strong>Alertes web</strong> : pour relire les pages que vous avez choisi de surveiller, et seulement celles-là.</li>
       <li><strong>Nous écrire</strong> : le message part depuis votre propre app Mail, et seulement si vous cliquez sur Envoyer.</li>
+      <li><strong>Retouche par IA de la dictée</strong> (désactivée au départ) : si vous choisissez un service en ligne (OpenAI, Anthropic, Groq…), le texte dicté lui est envoyé avec votre propre clé pour être corrigé. Avec Apple Intelligence, tout reste sur le Mac.</li>
+      <li><strong>Aperçu du Dock</strong> : la pochette du morceau en cours de Spotify est lue sur les serveurs de Spotify.</li>
+      <li><strong>Statistiques anonymes</strong> (désactivées au départ, Accueil › Confidentialité) : outils activés, écrans ouverts, version de Canif et de macOS, langue. Envoyées à TelemetryDeck (Allemagne) avec un identifiant aléatoire haché. Jamais votre nom, votre e-mail, vos réseaux, vos pages, vos dictées ni vos fichiers.</li>
     </ul>
     <h2>Contact</h2>
     <p>Une question : Xavier Roubaud, <a href="mailto:xavier.roubaud@gmail.com">xavier.roubaud@gmail.com</a>.</p>
   </div>
-  <div lang="en">
+  <div class="lang-en">
     <div class="box">
       <h2>In one sentence</h2>
-      <p>Canif works only on your Mac. The developer runs no server, receives nothing and sees nothing of what you do: no account, no ads, no usage statistics.</p>
+      <p>Canif works on your Mac. No account, no ads. The developer sees nothing of what you do and only receives anonymous statistics if you turn on “Help improve Canif” (off by default).</p>
     </div>
     <h2>What Canif accesses, and why</h2>
     <ul>
@@ -76,11 +79,149 @@
       <li><strong>DNS</strong>: to measure DNS server speed, when you ask for it.</li>
       <li><strong>Web alerts</strong>: to reload the pages you chose to watch, and only those.</li>
       <li><strong>Contact us</strong>: the message is sent from your own Mail app, and only if you click Send.</li>
+      <li><strong>AI touch-up for dictation</strong> (off by default): if you pick an online service (OpenAI, Anthropic, Groq…), the dictated text is sent to it with your own key to be corrected. With Apple Intelligence, everything stays on the Mac.</li>
+      <li><strong>Dock preview</strong>: the artwork of the Spotify track playing is loaded from Spotify's servers.</li>
+      <li><strong>Anonymous statistics</strong> (off by default, Home › Privacy): tools turned on, screens opened, Canif and macOS versions, language. Sent to TelemetryDeck (Germany) with a hashed random identifier. Never your name, email, networks, pages, dictations or files.</li>
     </ul>
     <h2>Contact</h2>
     <p>Any question: Xavier Roubaud, <a href="mailto:xavier.roubaud@gmail.com">xavier.roubaud@gmail.com</a>.</p>
   </div>
+  <div class="lang-es">
+    <div class="box">
+      <h2>En una frase</h2>
+      <p>Canif trabaja en tu Mac. Sin cuenta, sin publicidad. El desarrollador no ve nada de lo que haces y solo recibe estadísticas anónimas si activas «Ayudar a mejorar Canif» (desactivado de serie).</p>
+    </div>
+    <h2>A qué accede Canif y por qué</h2>
+    <ul>
+      <li><strong>Accesibilidad</strong>: para colocar ventanas, mostrar la vista previa del Dock y cortar y pegar en el Finder.</li>
+      <li><strong>Monitorización de entrada</strong>: para reconocer el atajo del dictado y ⌘X / ⌘V. Canif no guarda ni envía lo que escribes.</li>
+      <li><strong>Micrófono</strong>: para el dictado. La voz se transcribe en el propio Mac; no se graba ni se envía ningún sonido.</li>
+      <li><strong>Grabación de pantalla</strong>: para las miniaturas de las ventanas en la vista previa del Dock. Las imágenes se quedan en la memoria y nunca se guardan.</li>
+      <li><strong>Localización</strong>: solo porque macOS la exige para leer el nombre de la red wifi. Canif no lee ni guarda tu ubicación.</li>
+      <li><strong>Calendario</strong>: para mostrar los eventos del día en la vista previa del Dock. Nada sale del Mac.</li>
+    </ul>
+    <h2>Cuándo se conecta Canif a internet</h2>
+    <ul>
+      <li><strong>Dictado</strong>: para descargar el modelo de reconocimiento de voz de Hugging Face la primera vez y después comprobar una vez al día si hay una versión más reciente.</li>
+      <li><strong>DNS</strong>: para medir la rapidez de los servidores DNS, cuando tú lo pides.</li>
+      <li><strong>Alertas web</strong>: para volver a cargar las páginas que has elegido vigilar, y solo esas.</li>
+      <li><strong>Escríbanos</strong>: el mensaje sale desde tu propia app Mail, y solo si haces clic en Enviar.</li>
+      <li><strong>Retoque con IA del dictado</strong> (desactivado de serie): si eliges un servicio en línea (OpenAI, Anthropic, Groq…), se le envía el texto dictado con tu propia clave para corregirlo. Con Apple Intelligence, todo se queda en el Mac.</li>
+      <li><strong>Vista previa del Dock</strong>: la portada de la canción que suena en Spotify se carga desde los servidores de Spotify.</li>
+      <li><strong>Estadísticas anónimas</strong> (desactivadas de serie, Inicio › Privacidad): herramientas activadas, pantallas abiertas, versión de Canif y de macOS, idioma. Se envían a TelemetryDeck (Alemania) con un identificador aleatorio cifrado (hash). Nunca tu nombre, tu correo, tus redes, tus páginas, tus dictados ni tus archivos.</li>
+    </ul>
+    <h2>Contacto</h2>
+    <p>¿Alguna pregunta? Xavier Roubaud, <a href="mailto:xavier.roubaud@gmail.com">xavier.roubaud@gmail.com</a>.</p>
+  </div>
+  <div class="lang-pt">
+    <div class="box">
+      <h2>Em uma frase</h2>
+      <p>O Canif funciona no seu Mac. Sem conta, sem anúncios. O desenvolvedor não vê nada do que você faz e só recebe estatísticas anônimas se você ativar “Ajudar a melhorar o Canif” (desativado por padrão).</p>
+    </div>
+    <h2>O que o Canif acessa e por quê</h2>
+    <ul>
+      <li><strong>Acessibilidade</strong>: para organizar janelas, mostrar a prévia do Dock e recortar e colar no Finder.</li>
+      <li><strong>Monitoramento de Entrada</strong>: para reconhecer o atalho do ditado e ⌘X / ⌘V. O Canif não guarda nem envia o que você digita.</li>
+      <li><strong>Microfone</strong>: para o ditado. A voz é transcrita no próprio Mac; nenhum som é gravado ou enviado.</li>
+      <li><strong>Gravação de Tela</strong>: para as miniaturas das janelas na prévia do Dock. As imagens ficam na memória e nunca são salvas.</li>
+      <li><strong>Localização</strong>: só porque o macOS exige isso para ler o nome da rede Wi-Fi. O Canif não lê nem guarda a sua localização.</li>
+      <li><strong>Calendário</strong>: para mostrar os eventos do dia na prévia do Dock. Nada sai do Mac.</li>
+    </ul>
+    <h2>Quando o Canif se conecta à internet</h2>
+    <ul>
+      <li><strong>Ditado</strong>: para baixar o modelo de reconhecimento de voz do Hugging Face na primeira vez e depois verificar uma vez por dia se há uma versão mais recente.</li>
+      <li><strong>DNS</strong>: para medir a velocidade dos servidores DNS, quando você pede.</li>
+      <li><strong>Alertas web</strong>: para recarregar as páginas que você escolheu acompanhar, e somente elas.</li>
+      <li><strong>Fale conosco</strong>: a mensagem sai do seu próprio app Mail, e só se você clicar em Enviar.</li>
+      <li><strong>Revisão por IA do ditado</strong> (desativada por padrão): se você escolher um serviço on-line (OpenAI, Anthropic, Groq…), o texto ditado é enviado a ele com a sua própria chave para ser corrigido. Com a Apple Intelligence, tudo fica no Mac.</li>
+      <li><strong>Prévia do Dock</strong>: a capa da música tocando no Spotify é carregada dos servidores do Spotify.</li>
+      <li><strong>Estatísticas anônimas</strong> (desativadas por padrão, Início › Privacidade): ferramentas ativadas, telas abertas, versão do Canif e do macOS, idioma. Enviadas à TelemetryDeck (Alemanha) com um identificador aleatório criptografado (hash). Nunca o seu nome, e-mail, redes, páginas, ditados ou arquivos.</li>
+    </ul>
+    <h2>Contato</h2>
+    <p>Alguma dúvida? Xavier Roubaud, <a href="mailto:xavier.roubaud@gmail.com">xavier.roubaud@gmail.com</a>.</p>
+  </div>
+  <div class="lang-nl">
+    <div class="box">
+      <h2>In één zin</h2>
+      <p>Canif werkt op je Mac. Geen account, geen reclame. De ontwikkelaar ziet niets van wat je doet en ontvangt alleen anonieme statistieken als je ‘Help Canif te verbeteren’ aanzet (standaard uit).</p>
+    </div>
+    <h2>Waar Canif toegang toe heeft, en waarom</h2>
+    <ul>
+      <li><strong>Toegankelijkheid</strong>: om vensters te ordenen, de Dock-voorvertoning te tonen en te knippen en plakken in de Finder.</li>
+      <li><strong>Invoermonitoring</strong>: om de sneltoets voor dicteren en ⌘X / ⌘V te herkennen. Canif bewaart of verstuurt niet wat je typt.</li>
+      <li><strong>Microfoon</strong>: voor dicteren. Je stem wordt op de Mac zelf omgezet in tekst; er wordt geen geluid opgenomen of verstuurd.</li>
+      <li><strong>Schermopname</strong>: voor de miniaturen van vensters in de Dock-voorvertoning. De beelden blijven in het geheugen en worden nooit bewaard.</li>
+      <li><strong>Locatie</strong>: alleen omdat macOS dit eist om de naam van het wifinetwerk te lezen. Canif leest of bewaart je locatie niet.</li>
+      <li><strong>Agenda</strong>: om de activiteiten van vandaag te tonen in de Dock-voorvertoning. Niets verlaat de Mac.</li>
+    </ul>
+    <h2>Wanneer Canif verbinding maakt met internet</h2>
+    <ul>
+      <li><strong>Dicteren</strong>: om de eerste keer het spraakherkenningsmodel te downloaden van Hugging Face, en daarna één keer per dag te kijken of er een nieuwere versie is.</li>
+      <li><strong>DNS</strong>: om de snelheid van DNS-servers te meten, als je daarom vraagt.</li>
+      <li><strong>Webmeldingen</strong>: om de pagina's die je wilt volgen opnieuw te laden, en alleen die.</li>
+      <li><strong>Schrijf ons</strong>: het bericht gaat via je eigen Mail-app, en alleen als je op Verstuur klikt.</li>
+      <li><strong>AI-correctie van dicteren</strong> (standaard uit): als je een onlinedienst kiest (OpenAI, Anthropic, Groq…), wordt de gedicteerde tekst met je eigen sleutel naar die dienst gestuurd om te worden verbeterd. Met Apple Intelligence blijft alles op de Mac.</li>
+      <li><strong>Dock-voorvertoning</strong>: de albumhoes van het nummer dat in Spotify speelt, wordt geladen van de servers van Spotify.</li>
+      <li><strong>Anonieme statistieken</strong> (standaard uit, Start › Privacy): ingeschakelde tools, geopende schermen, versie van Canif en macOS, taal. Verstuurd naar TelemetryDeck (Duitsland) met een gehasht willekeurig ID. Nooit je naam, e-mail, netwerken, pagina's, dictaten of bestanden.</li>
+    </ul>
+    <h2>Contact</h2>
+    <p>Een vraag? Xavier Roubaud, <a href="mailto:xavier.roubaud@gmail.com">xavier.roubaud@gmail.com</a>.</p>
+  </div>
+  <div class="lang-de">
+    <div class="box">
+      <h2>In einem Satz</h2>
+      <p>Canif arbeitet auf Ihrem Mac. Kein Konto, keine Werbung. Der Entwickler sieht nichts von dem, was Sie tun, und erhält nur dann anonyme Statistiken, wenn Sie „Canif verbessern helfen“ einschalten (anfangs aus).</p>
+    </div>
+    <h2>Worauf Canif zugreift und warum</h2>
+    <ul>
+      <li><strong>Bedienungshilfen</strong>: um Fenster anzuordnen, die Dock-Vorschau anzuzeigen und im Finder auszuschneiden und einzufügen.</li>
+      <li><strong>Eingabeüberwachung</strong>: um den Kurzbefehl für das Diktat und ⌘X / ⌘V zu erkennen. Canif speichert und sendet nicht, was Sie tippen.</li>
+      <li><strong>Mikrofon</strong>: für das Diktat. Die Sprache wird auf dem Mac selbst in Text umgewandelt; es wird kein Ton aufgenommen oder gesendet.</li>
+      <li><strong>Bildschirmaufnahme</strong>: für die Fenster-Miniaturen in der Dock-Vorschau. Die Bilder bleiben im Arbeitsspeicher und werden nie gesichert.</li>
+      <li><strong>Ortungsdienste</strong>: nur weil macOS sie verlangt, um den Namen des WLAN-Netzwerks zu lesen. Canif liest und speichert Ihren Standort nicht.</li>
+      <li><strong>Kalender</strong>: um die heutigen Termine in der Dock-Vorschau zu zeigen. Nichts verlässt den Mac.</li>
+    </ul>
+    <h2>Wann Canif ins Internet geht</h2>
+    <ul>
+      <li><strong>Diktat</strong>: um beim ersten Mal das Spracherkennungsmodell von Hugging Face zu laden und danach einmal am Tag nach einer neueren Version zu sehen.</li>
+      <li><strong>DNS</strong>: um die Geschwindigkeit von DNS-Servern zu messen, wenn Sie es wünschen.</li>
+      <li><strong>Web-Alarme</strong>: um die Seiten neu zu laden, die Sie beobachten möchten, und nur diese.</li>
+      <li><strong>Schreiben Sie uns</strong>: Die Nachricht wird über Ihre eigene Mail-App gesendet, und nur wenn Sie auf „Senden“ klicken.</li>
+      <li><strong>KI-Überarbeitung des Diktats</strong> (anfangs aus): Wenn Sie einen Onlinedienst wählen (OpenAI, Anthropic, Groq …), wird der diktierte Text mit Ihrem eigenen Schlüssel an ihn gesendet, um ihn zu korrigieren. Mit Apple Intelligence bleibt alles auf dem Mac.</li>
+      <li><strong>Dock-Vorschau</strong>: Das Cover des Titels, der in Spotify läuft, wird von den Servern von Spotify geladen.</li>
+      <li><strong>Anonyme Statistiken</strong> (anfangs aus, Start › Datenschutz): eingeschaltete Werkzeuge, geöffnete Bereiche, Version von Canif und macOS, Sprache. Gesendet an TelemetryDeck (Deutschland) mit einer gehashten Zufallskennung. Niemals Ihr Name, Ihre E-Mail-Adresse, Ihre Netzwerke, Seiten, Diktate oder Dateien.</li>
+    </ul>
+    <h2>Kontakt</h2>
+    <p>Eine Frage? Xavier Roubaud, <a href="mailto:xavier.roubaud@gmail.com">xavier.roubaud@gmail.com</a>.</p>
+  </div>
+  <div class="lang-it">
+    <div class="box">
+      <h2>In una frase</h2>
+      <p>Canif lavora sul tuo Mac. Nessun account, nessuna pubblicità. Lo sviluppatore non vede nulla di ciò che fai e riceve statistiche anonime solo se attivi “Aiuta a migliorare Canif” (disattivato all'inizio).</p>
+    </div>
+    <h2>A cosa accede Canif, e perché</h2>
+    <ul>
+      <li><strong>Accessibilità</strong>: per sistemare le finestre, mostrare l'anteprima del Dock e fare taglia e incolla nel Finder.</li>
+      <li><strong>Monitoraggio input</strong>: per riconoscere l'abbreviazione della dettatura e ⌘X / ⌘V. Canif non conserva né invia ciò che digiti.</li>
+      <li><strong>Microfono</strong>: per la dettatura. La voce viene trascritta sul Mac stesso; nessun suono viene registrato o inviato.</li>
+      <li><strong>Registrazione schermo</strong>: per le miniature delle finestre nell'anteprima del Dock. Le immagini restano in memoria e non vengono mai salvate.</li>
+      <li><strong>Localizzazione</strong>: solo perché macOS la richiede per leggere il nome della rete Wi-Fi. Canif non legge né conserva la tua posizione.</li>
+      <li><strong>Calendario</strong>: per mostrare gli eventi del giorno nell'anteprima del Dock. Nulla lascia il Mac.</li>
+    </ul>
+    <h2>Quando Canif si collega a internet</h2>
+    <ul>
+      <li><strong>Dettatura</strong>: per scaricare il modello di riconoscimento vocale da Hugging Face la prima volta, poi controllare una volta al giorno se esiste una versione più recente.</li>
+      <li><strong>DNS</strong>: per misurare la velocità dei server DNS, quando lo chiedi tu.</li>
+      <li><strong>Avvisi web</strong>: per ricaricare le pagine che hai scelto di tenere d'occhio, e solo quelle.</li>
+      <li><strong>Scrivici</strong>: il messaggio parte dalla tua app Mail, e solo se fai clic su Invia.</li>
+      <li><strong>Ritocco con IA della dettatura</strong> (disattivato all'inizio): se scegli un servizio online (OpenAI, Anthropic, Groq…), il testo dettato gli viene inviato con la tua chiave per essere corretto. Con Apple Intelligence, tutto resta sul Mac.</li>
+      <li><strong>Anteprima del Dock</strong>: la copertina del brano in riproduzione su Spotify viene caricata dai server di Spotify.</li>
+      <li><strong>Statistiche anonime</strong> (disattivate all'inizio, Home › Privacy): strumenti attivati, schermate aperte, versione di Canif e di macOS, lingua. Inviate a TelemetryDeck (Germania) con un identificatore casuale cifrato (hash). Mai il tuo nome, la tua e-mail, le tue reti, le tue pagine, le tue dettature o i tuoi file.</li>
+    </ul>
+    <h2>Contatti</h2>
+    <p>Una domanda? Xavier Roubaud, <a href="mailto:xavier.roubaud@gmail.com">xavier.roubaud@gmail.com</a>.</p>
+  </div>
 </main>
-<script>if ((navigator.language || "fr").toLowerCase().indexOf("fr") !== 0) document.documentElement.classList.add("en");</script>
+<script src="lang.js"></script>
 </body>
 </html>
