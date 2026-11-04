@@ -27,25 +27,25 @@ Version 0.4.0 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Ma
 | ☕️ **Garder éveillé** | Empêchez le Mac de s'endormir, le temps qu'il faut. |
 | 🪟 **Aperçu du Dock** | Survolez une icône du Dock pour voir ses fenêtres, la musique en cours (Musique, Spotify) ou un dossier. Aussi avec ⌘⇥, boutons sur les vignettes, gestes de défilement et indicateur d'app active. |
 | ▦ **Ranger les fenêtres** | Glissez une fenêtre contre un bord, ou ⌃⌥ + flèche. |
-| 🎙️ **Dictée** | Maintenez un raccourci et parlez : le texte s'écrit tout seul, sans internet. Modèle au choix comme dans Handy (Parakeet Ultra/V3/V2, Canary, Whisper Small/Medium/Turbo/Large, SenseVoice), retouche par IA facultative. |
+| 🎙️ **Dictée** | Maintenez un raccourci et parlez : le texte s'écrit tout seul, sans internet. Modèle au choix (Parakeet Ultra/V3/V2, Canary, Whisper Small/Medium/Turbo/Large, SenseVoice), retouche par IA facultative. |
 | ✂️ **Couper-coller** | ⌘X puis ⌘V pour déplacer des fichiers dans le Finder. |
 | ⇪ **Majuscules** | Voyez tout de suite quand le verrouillage des majuscules est activé. |
 | 🔔 **Alertes web** | Soyez prévenu quand une partie d'une page web change. |
 | 🔴 **Micro et caméra** | Un badge (message et son au choix) s'affiche dès qu'une app allume votre micro ou votre caméra. |
-| 📊 **Système** | Comme Stats : processeur (cœurs performance/efficaces), carte graphique, mémoire (historique, top 10 par catégorie), disques (volumes, activité et carte de ce qui prend de la place, comme GrandPerspective), réseau, températures, consommation, batterie (cycles, santé). Mesures au choix dans la barre des menus. |
-| ⬛️ **Encoche** | Comme NotchNook : une île dynamique sous l'encoche (musique de n'importe quelle app, agenda avec bouton « Rejoindre » et alerte avant les réunions, widget Raccourcis, appareils Bluetooth, miroir, note), HUD de volume et de luminosité, gestes, plateau de fichiers à glisser (AirDrop, Coup d'œil), activités en direct (morceau en cours, charge, prochain rendez-vous, volume) et un parcours guidé pour les autorisations. |
-| 🌐 **Apps web** | Comme WebCatalog : transformez un site en vraie app Mac légère, avec sa propre session, ses notifications, sa pastille et son icône ; import des apps WebCatalog. |
-| 📋 **Presse-papiers** | Comme Maccy : retrouvez tout ce que vous avez copié, et collez-le d'un raccourci (⇧⌘V). Recherche, épingles ; ignore les gestionnaires de mots de passe. |
-| ⌨️ **Abréviations** | Comme TextExpander : tapez quelques lettres, Canif écrit le reste. Variables {date}, {heure}, {presse-papiers}, {curseur}. |
-| 〉 **Barre des menus** | Comme Bartender, Ice et Hidden Bar : rangez les icônes de la barre des menus derrière un chevron. |
-| 📸 **Capture d'écran** | Comme CleanShot X et TextSniper : zone, fenêtre, page entière, texte (OCR), QR codes ; capturez, annotez, épinglez, partagez. |
-| 🎨 **Pipette** | Comme ColorSlurp : prenez la couleur de n'importe quel pixel, dans le format voulu (HEX, RGB, HSL, SwiftUI…), avec le contraste WCAG. |
-| 🔊 **Son** | Comme SoundSource : changez de sortie en un clic, volume par app (0–150 %) et sortie par app, égaliseur 10 bandes (bêta). |
-| 🖥️ **Écrans externes** | Comme MonitorControl : réglez la luminosité et le volume de vos écrans externes, comme celui du Mac. |
-| 🔋 **Batterie** | Comme AlDente : limitez la charge de la batterie pour qu'elle dure des années. Assistant installé avec le mot de passe administrateur ; méthode de secours selon les Mac. |
-| 🗑️ **Désinstaller** | Comme AppCleaner : désinstallez une app et tous ses fichiers cachés, en un geste. |
+| 📊 **Système** | Processeur (cœurs performance/efficaces), carte graphique, mémoire (historique, top 10 par catégorie), disques (volumes, activité et carte de ce qui prend de la place), réseau, températures, consommation, batterie (cycles, santé). Mesures au choix dans la barre des menus. |
+| ⬛️ **Encoche** | Une île dynamique sous l'encoche (musique de n'importe quelle app, agenda avec bouton « Rejoindre » et alerte avant les réunions, widget Raccourcis, appareils Bluetooth, miroir, note), HUD de volume et de luminosité, gestes, plateau de fichiers à glisser (AirDrop, Coup d'œil), activités en direct (morceau en cours, charge, prochain rendez-vous, volume) et un parcours guidé pour les autorisations. |
+| 🌐 **Apps web** | Transformez un site en vraie app Mac légère, avec sa propre session, ses notifications, sa pastille et son icône. |
+| 📋 **Presse-papiers** | Retrouvez tout ce que vous avez copié, et collez-le d'un raccourci (⇧⌘V). Recherche, épingles ; ignore les gestionnaires de mots de passe. |
+| ⌨️ **Abréviations** | Tapez quelques lettres, Canif écrit le reste. Variables {date}, {heure}, {presse-papiers}, {curseur}. |
+| 〉 **Barre des menus** | Rangez les icônes de la barre des menus derrière un chevron. |
+| 📸 **Capture d'écran** | Zone, fenêtre, page entière, texte (OCR), QR codes ; capturez, annotez, épinglez, partagez. |
+| 🎨 **Pipette** | Prenez la couleur de n'importe quel pixel, dans le format voulu (HEX, RGB, HSL, SwiftUI…), avec le contraste WCAG. |
+| 🔊 **Son** | Changez de sortie en un clic, volume par app (0–150 %) et sortie par app, égaliseur 10 bandes (bêta). |
+| 🖥️ **Écrans externes** | Réglez la luminosité et le volume de vos écrans externes, comme celui du Mac. |
+| 🔋 **Batterie** | Limitez la charge de la batterie pour qu'elle dure des années. Assistant installé avec le mot de passe administrateur ; méthode de secours selon les Mac. |
+| 🗑️ **Désinstaller** | Désinstallez une app et tous ses fichiers cachés, en un geste. |
 | 🖱️ **Clavier et souris** | Comme Mos et SlowQuit : molette douce, sens de défilement séparé, ⌘Q protégé et nettoyage du clavier. |
-| 🍅 **Pomodoro** | Comme Session et Be Focused : travaillez par séances de 25 minutes, avec de vraies pauses. |
+| 🍅 **Pomodoro** | Travaillez par séances de 25 minutes, avec de vraies pauses. |
 
 Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou expert, et se commande depuis l'icône en haut de l'écran. Sons de notification au choix pour tous les outils. Les icônes des outils se placent juste à côté de celle de Canif.
 
@@ -62,25 +62,25 @@ Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou exper
 | ☕️ **Keep awake** | Keep your Mac from going to sleep, for as long as you need. |
 | 🪟 **Dock preview** | Hover over a Dock icon to see its windows, the music playing (Music, Spotify) or a folder. Also with ⌘⇥, thumbnail buttons, scroll gestures and an active-app indicator. |
 | ▦ **Window snapping** | Drag a window to an edge of the screen, or press ⌃⌥ + arrow. |
-| 🎙️ **Dictation** | Hold down a shortcut and speak: the text types itself, no internet needed. Choose your model as in Handy (Parakeet Ultra/V3/V2, Canary, Whisper Small/Medium/Turbo/Large, SenseVoice), optional AI touch-up. |
+| 🎙️ **Dictation** | Hold down a shortcut and speak: the text types itself, no internet needed. Choose your model (Parakeet Ultra/V3/V2, Canary, Whisper Small/Medium/Turbo/Large, SenseVoice), optional AI touch-up. |
 | ✂️ **Cut and paste** | ⌘X then ⌘V to move files in the Finder. |
 | ⇪ **Caps Lock** | See right away when Caps Lock is on. |
 | 🔔 **Web alerts** | Get notified when part of a web page changes. |
 | 🔴 **Microphone and camera** | A badge (custom message and sound) appears as soon as an app turns on your microphone or camera. |
-| 📊 **System** | Like Stats: CPU (performance/efficiency cores), GPU, memory (history, top 10 per category), disks (volumes, activity and a map of what takes up space, like GrandPerspective), network, temperatures, power, battery (cycles, health). Pick what shows in the menu bar. |
-| ⬛️ **Notch** | Like NotchNook: a dynamic island under the notch (music from any app, calendar with a “Join” button and meeting alerts, Shortcuts widget, Bluetooth devices, mirror, notes), volume and brightness HUD, gestures, a file tray to drag into (AirDrop, Quick Look), live activities (now playing, charging, next event, volume) and a guided permissions journey. |
-| 🌐 **Web apps** | Like WebCatalog: turn a website into a light, real Mac app with its own session, notifications, badge and icon; imports your WebCatalog apps. |
-| 📋 **Clipboard** | Like Maccy: find everything you copied and paste it with a shortcut (⇧⌘V). Search, pins; password managers are ignored. |
-| ⌨️ **Abbreviations** | Like TextExpander: type a few letters, Canif writes the rest. {date}, {time}, {clipboard} and {cursor} placeholders. |
-| 〉 **Menu bar** | Like Bartender, Ice and Hidden Bar: tuck menu bar icons away behind a chevron. |
-| 📸 **Screenshot** | Like CleanShot X and TextSniper: area, window, full page, text (OCR), QR codes; capture, annotate, pin, share. |
-| 🎨 **Colour picker** | Like ColorSlurp: grab the colour of any pixel, in the format you need (HEX, RGB, HSL, SwiftUI…), with WCAG contrast. |
-| 🔊 **Sound** | Like SoundSource: switch outputs in one click, per-app volume (0–150%) and per-app output, 10-band equaliser (beta). |
-| 🖥️ **External displays** | Like MonitorControl: set the brightness and volume of your external displays, just like the Mac's. |
-| 🔋 **Battery** | Like AlDente: limit battery charging so it lasts for years. Helper installed with your administrator password; fallback method on some Macs. |
-| 🗑️ **Uninstall** | Like AppCleaner: uninstall an app and all its hidden files in one go. |
+| 📊 **System** | CPU (performance/efficiency cores), GPU, memory (history, top 10 per category), disks (volumes, activity and a map of what takes up space), network, temperatures, power, battery (cycles, health). Pick what shows in the menu bar. |
+| ⬛️ **Notch** | A dynamic island under the notch (music from any app, calendar with a “Join” button and meeting alerts, Shortcuts widget, Bluetooth devices, mirror, notes), volume and brightness HUD, gestures, a file tray to drag into (AirDrop, Quick Look), live activities (now playing, charging, next event, volume) and a guided permissions journey. |
+| 🌐 **Web apps** | Turn a website into a light, real Mac app with its own session, notifications, badge and icon. |
+| 📋 **Clipboard** | Find everything you copied and paste it with a shortcut (⇧⌘V). Search, pins; password managers are ignored. |
+| ⌨️ **Abbreviations** | Type a few letters, Canif writes the rest. {date}, {time}, {clipboard} and {cursor} placeholders. |
+| 〉 **Menu bar** | Tuck menu bar icons away behind a chevron. |
+| 📸 **Screenshot** | Area, window, full page, text (OCR), QR codes; capture, annotate, pin, share. |
+| 🎨 **Colour picker** | Grab the colour of any pixel, in the format you need (HEX, RGB, HSL, SwiftUI…), with WCAG contrast. |
+| 🔊 **Sound** | Switch outputs in one click, per-app volume (0–150%) and per-app output, 10-band equaliser (beta). |
+| 🖥️ **External displays** | Set the brightness and volume of your external displays, just like the Mac's. |
+| 🔋 **Battery** | Limit battery charging so it lasts for years. Helper installed with your administrator password; fallback method on some Macs. |
+| 🗑️ **Uninstall** | Uninstall an app and all its hidden files in one go. |
 | 🖱️ **Keyboard and mouse** | Like Mos and SlowQuit: smooth scroll wheel, separate scroll directions, protected ⌘Q and keyboard cleaning. |
-| 🍅 **Pomodoro** | Like Session and Be Focused: work in 25-minute sessions, with real breaks. |
+| 🍅 **Pomodoro** | Work in 25-minute sessions, with real breaks. |
 
 Each tool turns on or off with one click, has standard and expert settings, and is controlled from the icon at the top of the screen. The tools' icons sit right next to Canif's.
 
