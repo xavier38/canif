@@ -16,7 +16,7 @@
              nl: "Het Zwitserse zakmes van je Mac: 13 tools in één app.", de: "Das Schweizer Taschenmesser für deinen Mac: 13 Werkzeuge in einer App.",
              it: "Il coltellino svizzero del tuo Mac: 13 strumenti in un'unica app." } },
     { id: "sesame", name: "Sesame", site: "https://xavier38.github.io/sesame/", repo: "https://github.com/xavier38/sesame",
-      icon: "https://xavier38.github.io/sesame/icon.png",
+      icon: "https://xavier38.github.io/sesame/icon.png?v=20261104n",
       tag: { fr: "Tous vos clouds dans une seule application.", en: "All your clouds in one app.",
              es: "Todas tus nubes en una sola app.", pt: "Todas as suas nuvens numa só app.",
              nl: "Al je clouds in één app.", de: "Alle deine Clouds in einer App.",
