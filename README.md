@@ -2,8 +2,8 @@
 
 <h1 align="center">Canif</h1>
 
-<p align="center"><b>Le couteau suisse de votre Mac : 27 outils dans une seule app, gratuite, en 7 langues.</b><br>
-Your Mac's Swiss army knife: 27 tools in one free app, in 7 languages.</p>
+<p align="center"><b>Le couteau suisse de votre Mac : 27 outils dans une seule app, gratuite, en 7 langues. Moka est inclus.</b><br>
+Your Mac's Swiss army knife: 27 tools in one free app, in 7 languages. Moka is included.</p>
 
 <p align="center">
 <a href="https://github.com/xavier38/canif/releases/latest/download/Canif.zip"><b>⬇︎ Télécharger / Download Canif.zip</b></a> ·
@@ -14,7 +14,7 @@ Your Mac's Swiss army knife: 27 tools in one free app, in 7 languages.</p>
 
 <p align="center"><img src="promo-fr.jpg" width="720" alt="Canif"></p>
 
-Version 0.4.0 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.6.6 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
 ## 🇫🇷 Les 27 outils
 
@@ -24,7 +24,7 @@ Version 0.4.0 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Ma
 | 🌍 **Horloges** | L'heure de vos villes préférées dans la barre des menus. |
 | 🌐 **DNS** | Changez de DNS en un clic : plus rapide, plus sûr, sans pub. |
 | ☀️ **Couleur de l'écran** | Moins de lumière bleue le soir, avec horaires et transition douce. |
-| ☕️ **Garder éveillé** | Empêchez le Mac de s'endormir, le temps qu'il faut. |
+| ☕️ **Garder éveillé** | Empêchez le Mac de s'endormir, le temps qu'il faut. C'est l'app [Moka](https://xavier38.github.io/moka/), intégrée à Canif. |
 | 🪟 **Aperçu du Dock** | Survolez une icône du Dock pour voir ses fenêtres, la musique en cours (Musique, Spotify) ou un dossier. Aussi avec ⌘⇥, boutons sur les vignettes, gestes de défilement et indicateur d'app active. |
 | ▦ **Ranger les fenêtres** | Glissez une fenêtre contre un bord, ou ⌃⌥ + flèche. |
 | 🎙️ **Dictée** | Maintenez un raccourci et parlez : le texte s'écrit tout seul, sans internet. Modèle au choix (Parakeet Ultra/V3/V2, Canary, Whisper Small/Medium/Turbo/Large, SenseVoice), retouche par IA facultative. |
@@ -60,7 +60,7 @@ Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou exper
 | 🌍 **Clocks** | The time in your favourite cities, in the menu bar. |
 | 🌐 **DNS** | Switch DNS in one click: faster, safer, ad-free. |
 | ☀️ **Screen colour** | Less blue light in the evening, with schedules and a smooth transition. |
-| ☕️ **Keep awake** | Keep your Mac from going to sleep, for as long as you need. |
+| ☕️ **Keep awake** | Keep your Mac from going to sleep, for as long as you need. It's the [Moka](https://xavier38.github.io/moka/) app, built into Canif. |
 | 🪟 **Dock preview** | Hover over a Dock icon to see its windows, the music playing (Music, Spotify) or a folder. Also with ⌘⇥, thumbnail buttons, scroll gestures and an active-app indicator. |
 | ▦ **Window snapping** | Drag a window to an edge of the screen, or press ⌃⌥ + arrow. |
 | 🎙️ **Dictation** | Hold down a shortcut and speak: the text types itself, no internet needed. Choose your model (Parakeet Ultra/V3/V2, Canary, Whisper Small/Medium/Turbo/Large, SenseVoice), optional AI touch-up. |
