@@ -1,4 +1,4 @@
-/* « Mes autres applications » : la même section sur les sites de Moka, Canif, Sesame et Gouache.
+/* « Mes autres applications » : la même section sur les sites de Moka, Canif, Sesame et Atelier.
    <section id="autres-apps" data-current="moka"></section> puis <script src="autres-apps.js"></script>.
    La langue suit celle de la page (attribut lang, ou la classe « en » des pages français/anglais) et change avec elle. */
 (function () {
@@ -21,12 +21,12 @@
              es: "Todas tus nubes en una sola app.", pt: "Todas as suas nuvens numa só app.",
              nl: "Al je clouds in één app.", de: "Alle deine Clouds in einer App.",
              it: "Tutti i tuoi cloud in un'unica app." } },
-    { id: "gouache", name: "Gouache", site: "https://xavier38.github.io/gouache/", repo: "https://github.com/xavier38/gouache",
-      icon: "https://xavier38.github.io/gouache/icon.png",
-      tag: { fr: "Un vrai éditeur d'images pour Mac : calques, effets, outils de dessin.", en: "A real image editor for Mac: layers, effects, drawing tools.",
-             es: "Un auténtico editor de imágenes para Mac: capas, efectos, herramientas de dibujo.", pt: "Um verdadeiro editor de imagens para Mac: camadas, efeitos, ferramentas de desenho.",
-             nl: "Een echte beeldbewerker voor de Mac: lagen, effecten, tekengereedschap.", de: "Ein echter Bildeditor für den Mac: Ebenen, Effekte, Zeichenwerkzeuge.",
-             it: "Un vero editor di immagini per Mac: livelli, effetti, strumenti di disegno." } }
+    { id: "gouache", name: "Atelier", site: "https://xavier38.github.io/gouache/", repo: "https://github.com/xavier38/gouache",
+      icon: "https://xavier38.github.io/gouache/icon.png?v=20261106",
+      tag: { fr: "Vos photos méritent un atelier : retouchez-les sur votre Mac, sans compte ni nuage.", en: "Your photos deserve a studio: edit them on your Mac, no account, no cloud.",
+             es: "Tus fotos merecen un taller: retócalas en tu Mac, sin cuenta ni nube.", pt: "As suas fotos merecem um ateliê: retoque-as no seu Mac, sem conta nem nuvem.",
+             nl: "Je foto’s verdienen een atelier: bewerk ze op je Mac, zonder account of cloud.", de: "Deine Fotos verdienen ein Atelier: bearbeite sie auf deinem Mac, ohne Konto und Cloud.",
+             it: "Le tue foto meritano un atelier: ritoccale sul tuo Mac, senza account né cloud." } }
   ];
   var T = {
     fr: { title: "Mes autres applications", lead: "Gratuites elles aussi, pour Mac.", site: "Découvrir", repo: "Sur GitHub" },
