@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg" width="720" alt="Canif"></p>
 
-Version 0.7.0 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.1 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.0 / What’s new
+## Nouveautés 0.7.1 / What’s new
 
-Appareils du réseau avec noms LanScan et MAC, alertes de batterie faible et critique, et panneau Encoche sous la barre des menus. [Notes en français](https://xavier38.github.io/canif/notes/0.7.0.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.0.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.0.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.0.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.0.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.0.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.0.pt.html).
+Encoche ancrée au Mac, survol compact et petit signal d’activité ; identification enrichie par vos noms LanScan (type, marque, modèle explicite). Les noms personnalisés restent sur le Mac. [Notes en français](https://xavier38.github.io/canif/notes/0.7.1.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.1.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.1.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.1.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.1.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.1.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.1.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
