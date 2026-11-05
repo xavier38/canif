@@ -1,4 +1,4 @@
-/* « Mes autres applications » : la même section sur les sites de Moka, Canif et Sesame.
+/* « Mes autres applications » : la même section sur les sites de Moka, Canif, Sesame et Gouache.
    <section id="autres-apps" data-current="moka"></section> puis <script src="autres-apps.js"></script>.
    La langue suit celle de la page (attribut lang, ou la classe « en » des pages français/anglais) et change avec elle. */
 (function () {
@@ -20,7 +20,13 @@
       tag: { fr: "Tous vos clouds dans une seule application.", en: "All your clouds in one app.",
              es: "Todas tus nubes en una sola app.", pt: "Todas as suas nuvens numa só app.",
              nl: "Al je clouds in één app.", de: "Alle deine Clouds in einer App.",
-             it: "Tutti i tuoi cloud in un'unica app." } }
+             it: "Tutti i tuoi cloud in un'unica app." } },
+    { id: "gouache", name: "Gouache", site: "https://xavier38.github.io/gouache/", repo: "https://github.com/xavier38/gouache",
+      icon: "https://xavier38.github.io/gouache/icon.png",
+      tag: { fr: "Un vrai éditeur d'images pour Mac : calques, effets, outils de dessin.", en: "A real image editor for Mac: layers, effects, drawing tools.",
+             es: "Un auténtico editor de imágenes para Mac: capas, efectos, herramientas de dibujo.", pt: "Um verdadeiro editor de imagens para Mac: camadas, efeitos, ferramentas de desenho.",
+             nl: "Een echte beeldbewerker voor de Mac: lagen, effecten, tekengereedschap.", de: "Ein echter Bildeditor für den Mac: Ebenen, Effekte, Zeichenwerkzeuge.",
+             it: "Un vero editor di immagini per Mac: livelli, effetti, strumenti di disegno." } }
   ];
   var T = {
     fr: { title: "Mes autres applications", lead: "Gratuites elles aussi, pour Mac.", site: "Découvrir", repo: "Sur GitHub" },
