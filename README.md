@@ -14,7 +14,7 @@ Your Mac's Swiss army knife: 27 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg" width="720" alt="Canif"></p>
 
-Version 0.6.7 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.6.8 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
 ## 🇫🇷 Les 27 outils
 
