@@ -109,3 +109,7 @@ Langues de l'app / App languages: Français, English, Español, Português (Bras
 Tout reste sur votre Mac. Statistiques d'usage anonymes **désactivées par défaut** (opt-in). · Everything stays on your Mac. Anonymous usage statistics are **off by default** (opt-in).
 
 [☕️ Offrir un café / Buy me a coffee](https://xavier38.github.io/canif/cafe.html)
+
+## Linux et Windows
+
+Canif PC 0.1.0 : 11 outils en 7 langues. [Linux](https://xavier38.github.io/canif/linux.html) · [Windows](https://xavier38.github.io/canif/windows.html). Les tableaux distinguent les outils disponibles de ceux à venir.
