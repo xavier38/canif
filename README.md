@@ -12,7 +12,7 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 <a href="https://xavier38.github.io/canif/confidentialite.html">Confidentialité / Privacy</a>
 </p>
 
-<p align="center"><img src="promo-fr.jpg" width="720" alt="Canif"></p>
+<p align="center"><img src="promo-fr.jpg?v=071" width="720" alt="Canif"></p>
 
 Version 0.7.1 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
