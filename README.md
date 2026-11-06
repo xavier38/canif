@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.5 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.6 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.5 / What’s new
+## Nouveautés 0.7.6 / What’s new
 
-Encoche élargie : un seul rectangle noir opaque, de largeur uniforme dans la barre des menus et sous l’encoche, au survol comme à l’ouverture. Le panneau reste au-dessus des menus et des icônes, et toute sa largeur réagit à la souris. [Notes en français](https://xavier38.github.io/canif/notes/0.7.5.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.5.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.5.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.5.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.5.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.5.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.5.pt.html).
+L’outil de cycles travail/pause s’appelle désormais Concentration. Encoche : nouvelles cartes Concentration (temps restant et commandes), Batterie (niveau et alertes) et Transferts (progression des copies vers le plateau). Les rendez-vous affichent un compte à rebours. Les notes rapides, raccourcis et cinq copies récentes sont accessibles au clic ; le presse-papiers reste masqué au survol. Les cartes se disposent sur plusieurs rangées dans le rectangle noir uniforme. [Notes en français](https://xavier38.github.io/canif/notes/0.7.6.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.6.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.6.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.6.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.6.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.6.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.6.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
