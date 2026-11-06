@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.4 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.5 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.4 / What’s new
+## Nouveautés 0.7.5 / What’s new
 
-Encoche : le survol passe désormais au-dessus des icônes et de la barre des menus, et se déploie aussi verticalement. Le panneau affiche la musique et ses commandes, l’agenda autorisé ou les détails de l’activité en cours (batterie, Bluetooth, volume…). Un rendez-vous en cours ou imminent donne priorité à l’agenda. Les widgets activés sont respectés, et l’encoche se replie au départ de la souris. [Notes en français](https://xavier38.github.io/canif/notes/0.7.4.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.4.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.4.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.4.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.4.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.4.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.4.pt.html).
+Encoche élargie : un seul rectangle noir opaque, de largeur uniforme dans la barre des menus et sous l’encoche, au survol comme à l’ouverture. Le panneau reste au-dessus des menus et des icônes, et toute sa largeur réagit à la souris. [Notes en français](https://xavier38.github.io/canif/notes/0.7.5.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.5.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.5.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.5.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.5.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.5.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.5.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
