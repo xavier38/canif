@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.15 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.16 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.15 / What’s new
+## Nouveautés 0.7.16 / What’s new
 
-Encoche : suppression des options et des indicateurs automatiques de volume/luminosité, ainsi que de leur interception des touches. La carte Son conserve ses commandes. La carte Dictée est retirée de l’encoche ; l’outil Dictée reste disponible dans Canif. La carte WiFi affiche aussi le signal et le bruit en dBm, la bande, le canal et la vitesse de liaison. Les données manquantes restent indiquées par — ; aucune analyse réseau supplémentaire n’est lancée. [Notes en français](https://xavier38.github.io/canif/notes/0.7.15.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.15.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.15.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.15.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.15.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.15.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.15.pt.html).
+Encoche : section « Ordre des modules » avec positions numérotées et flèches plus accessibles. L’ordre choisi est mémorisé et respecté au survol comme au clic ; musique, agenda et alertes ne font plus remonter les cartes automatiquement. Les futurs modules sont ajoutés après les choix enregistrés. [Notes en français](https://xavier38.github.io/canif/notes/0.7.16.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.16.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.16.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.16.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.16.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.16.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.16.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
