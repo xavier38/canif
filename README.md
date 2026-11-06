@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.13 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.14 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.13 / What’s new
+## Nouveautés 0.7.14 / What’s new
 
-Encoche : bouton « Sans limite » dans Garder éveillé pour empêcher la veille jusqu’à l’arrêt manuel. Disponible au démarrage et pendant une période limitée, sans modifier les protections de batterie existantes. [Notes en français](https://xavier38.github.io/canif/notes/0.7.13.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.13.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.13.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.13.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.13.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.13.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.13.pt.html).
+Encoche : Garder éveillé utilise désormais exactement la même icône que la barre des menus. La tasse est pleine lorsque l’éveil est actif, vide quand la veille normale est autorisée. Le bouton Sans limite est inclus. [Notes en français](https://xavier38.github.io/canif/notes/0.7.14.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.14.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.14.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.14.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.14.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.14.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.14.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
