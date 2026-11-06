@@ -50,7 +50,7 @@ L’outil de cycles travail/pause s’appelle désormais Concentration. Encoche 
 | 🔋 **Batterie** | Limitez la charge de la batterie pour qu'elle dure des années. Assistant installé avec le mot de passe administrateur ; méthode de secours selon les Mac. |
 | 🗑️ **Désinstaller** | Désinstallez une app et tous ses fichiers cachés, en un geste. |
 | 🖱️ **Clavier et souris** | Comme Mos et SlowQuit : molette douce, sens de défilement séparé, ⌘Q protégé et nettoyage du clavier. |
-| 🍅 **Pomodoro** | Travaillez par séances de 25 minutes, avec de vraies pauses. |
+| ⏱️ **Concentration** | Travaillez par séances de 25 minutes, avec de vraies pauses. |
 | 🗒️ **Aide-mémoire** | Des notes autocollantes sur le bureau, enregistrées toutes seules (remplace l'Aide-mémoire de macOS). |
 
 Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou expert, et se commande depuis l'icône en haut de l'écran. Sons de notification au choix pour tous les outils. Les icônes des outils se placent juste à côté de celle de Canif.
@@ -87,7 +87,7 @@ Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou exper
 | 🔋 **Battery** | Limit battery charging so it lasts for years. Helper installed with your administrator password; fallback method on some Macs. |
 | 🗑️ **Uninstall** | Uninstall an app and all its hidden files in one go. |
 | 🖱️ **Keyboard and mouse** | Like Mos and SlowQuit: smooth scroll wheel, separate scroll directions, protected ⌘Q and keyboard cleaning. |
-| 🍅 **Pomodoro** | Work in 25-minute sessions, with real breaks. |
+| ⏱️ **Focus** | Work in 25-minute sessions, with real breaks. |
 | 🗒️ **Stickies** | Sticky notes on your desktop, saved automatically (replaces macOS Stickies). |
 
 Each tool turns on or off with one click, has standard and expert settings, and is controlled from the icon at the top of the screen. The tools' icons sit right next to Canif's.
