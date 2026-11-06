@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.24 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.25 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.24 / What’s new
+## Nouveautés 0.7.25 / What’s new
 
-Menu déroulant : les 28 fonctionnalités sont disposées sur quatre rangées de sept icônes. Annulation de la limitation erronée du bloc Appareils du réseau à quatre appareils : il en affiche à nouveau jusqu’à sept. [Notes en français](https://xavier38.github.io/canif/notes/0.7.24.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.24.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.24.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.24.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.24.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.24.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.24.pt.html).
+Menu adapté aux petits écrans : icônes réduites et 28 fonctionnalités sur trois rangées. Les grands écrans gardent quatre rangées de sept. Le panneau WiFi et les autres outils défilent dans la hauteur disponible ; les réglages et les boutons du bas restent accessibles. La taille est calculée selon l’écran où le menu est ouvert. [Notes en français](https://xavier38.github.io/canif/notes/0.7.25.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.25.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.25.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.25.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.25.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.25.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.25.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
