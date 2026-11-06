@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.12 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.13 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.12 / What’s new
+## Nouveautés 0.7.13 / What’s new
 
-Encoche : cartes Son, Garder éveillé, Dictée, Micro/caméra, Horloges, WiFi, Système et Alertes web, reliées aux réglages des outils. Les nouvelles cartes sont proposées dans cet ordre ; l’ordre et les cartes masquées déjà choisis restent conservés. Commandes rapides : capture de zone ou de fenêtre, pipette, moitié gauche, moitié droite et agrandissement. L’encoche se replie et rend le clavier avant l’action. Un outil désactivé peut être activé explicitement. Aucun micro, caméra ou balayage réseau ne démarre au survol. Son : reprise des chaînes audio après un passage à zéro ou en sourdine, sans devoir sélectionner à nouveau les haut-parleurs. Une capture arrêtée ou en échec ne garde plus le son d’origine coupé ; les sourdines explicites par app sont conservées. [Notes en français](https://xavier38.github.io/canif/notes/0.7.12.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.12.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.12.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.12.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.12.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.12.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.12.pt.html).
+Encoche : bouton « Sans limite » dans Garder éveillé pour empêcher la veille jusqu’à l’arrêt manuel. Disponible au démarrage et pendant une période limitée, sans modifier les protections de batterie existantes. [Notes en français](https://xavier38.github.io/canif/notes/0.7.13.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.13.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.13.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.13.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.13.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.13.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.13.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
