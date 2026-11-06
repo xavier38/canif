@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.14 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.15 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.14 / What’s new
+## Nouveautés 0.7.15 / What’s new
 
-Encoche : Garder éveillé utilise désormais exactement la même icône que la barre des menus. La tasse est pleine lorsque l’éveil est actif, vide quand la veille normale est autorisée. Le bouton Sans limite est inclus. [Notes en français](https://xavier38.github.io/canif/notes/0.7.14.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.14.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.14.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.14.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.14.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.14.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.14.pt.html).
+Encoche : suppression des options et des indicateurs automatiques de volume/luminosité, ainsi que de leur interception des touches. La carte Son conserve ses commandes. La carte Dictée est retirée de l’encoche ; l’outil Dictée reste disponible dans Canif. La carte WiFi affiche aussi le signal et le bruit en dBm, la bande, le canal et la vitesse de liaison. Les données manquantes restent indiquées par — ; aucune analyse réseau supplémentaire n’est lancée. [Notes en français](https://xavier38.github.io/canif/notes/0.7.15.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.15.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.15.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.15.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.15.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.15.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.15.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
@@ -38,7 +38,7 @@ Encoche : Garder éveillé utilise désormais exactement la même icône que la 
 | 🔔 **Alertes web** | Soyez prévenu quand une partie d'une page web change. |
 | 🔴 **Micro et caméra** | Un badge (message et son au choix) s'affiche dès qu'une app allume votre micro ou votre caméra. |
 | 📊 **Système** | Processeur (cœurs performance/efficaces), carte graphique, mémoire (historique, top 10 par catégorie), disques (volumes, activité et carte de ce qui prend de la place), réseau, températures, consommation, batterie (cycles, santé). Mesures au choix dans la barre des menus. |
-| ⬛️ **Encoche** | Une île dynamique sous l'encoche (musique de n'importe quelle app, agenda avec bouton « Rejoindre » et alerte avant les réunions, widget Raccourcis, appareils Bluetooth, miroir, note), HUD de volume et de luminosité, gestes, plateau de fichiers à glisser (AirDrop, Coup d'œil), activités en direct (morceau en cours, charge, prochain rendez-vous, volume) et un parcours guidé pour les autorisations. |
+| ⬛️ **Encoche** | Cartes colorées pour la musique, l’agenda, le son, l’éveil, le suivi micro/caméra, les horloges, le WiFi détaillé, le système, les alertes web, la concentration, la batterie, les fichiers et les notes. Commandes rapides de capture, pipette et rangement des fenêtres. |
 | 🌐 **Apps web** | Transformez un site en vraie app Mac légère, avec sa propre session, ses notifications, sa pastille et son icône. |
 | 📋 **Presse-papiers** | Retrouvez tout ce que vous avez copié, et collez-le d'un raccourci (⇧⌘V). Recherche, épingles ; ignore les gestionnaires de mots de passe. |
 | ⌨️ **Abréviations** | Tapez quelques lettres, Canif écrit le reste. Variables {date}, {heure}, {presse-papiers}, {curseur}. |
@@ -75,7 +75,7 @@ Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou exper
 | 🔔 **Web alerts** | Get notified when part of a web page changes. |
 | 🔴 **Microphone and camera** | A badge (custom message and sound) appears as soon as an app turns on your microphone or camera. |
 | 📊 **System** | CPU (performance/efficiency cores), GPU, memory (history, top 10 per category), disks (volumes, activity and a map of what takes up space), network, temperatures, power, battery (cycles, health). Pick what shows in the menu bar. |
-| ⬛️ **Notch** | A dynamic island under the notch (music from any app, calendar with a “Join” button and meeting alerts, Shortcuts widget, Bluetooth devices, mirror, notes), volume and brightness HUD, gestures, a file tray to drag into (AirDrop, Quick Look), live activities (now playing, charging, next event, volume) and a guided permissions journey. |
+| ⬛️ **Notch** | Coloured cards for music, calendar, sound, keep awake, microphone/camera monitoring, clocks, detailed WiFi, system, web alerts, focus, battery, files and notes. Quick capture, colour picker and window arrangement actions. |
 | 🌐 **Web apps** | Turn a website into a light, real Mac app with its own session, notifications, badge and icon. |
 | 📋 **Clipboard** | Find everything you copied and paste it with a shortcut (⇧⌘V). Search, pins; password managers are ignored. |
 | ⌨️ **Abbreviations** | Type a few letters, Canif writes the rest. {date}, {time}, {clipboard} and {cursor} placeholders. |
