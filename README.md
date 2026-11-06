@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.3 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.4 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.3 / What’s new
+## Nouveautés 0.7.4 / What’s new
 
-Appareils : tri par nom ajouté, avec le choix croissant ou décroissant pour tous les critères. Import local des noms, pièces et modèles de Home Assistant par correspondance MAC. Les noms personnels restent prioritaires, aucune commande n’est envoyée à la domotique et l’import ne change pas les observations de présence. Encoche : au survol, la largeur s’adapte aux informations, avec le titre et l’artiste ou le rendez-vous lisibles. Le volet inférieur reste accessible au clic. Les comparaisons et noms des applications remplacées ont été retirés de l’accueil. Les libellés d’import de noms sont neutres. [Notes en français](https://xavier38.github.io/canif/notes/0.7.3.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.3.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.3.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.3.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.3.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.3.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.3.pt.html).
+Encoche : le survol passe désormais au-dessus des icônes et de la barre des menus, et se déploie aussi verticalement. Le panneau affiche la musique et ses commandes, l’agenda autorisé ou les détails de l’activité en cours (batterie, Bluetooth, volume…). Un rendez-vous en cours ou imminent donne priorité à l’agenda. Les widgets activés sont respectés, et l’encoche se replie au départ de la souris. [Notes en français](https://xavier38.github.io/canif/notes/0.7.4.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.4.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.4.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.4.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.4.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.4.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.4.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
