@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.22 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.23 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.22 / What’s new
+## Nouveautés 0.7.23 / What’s new
 
-Appareils du réseau : adresse IP en vert bien visible et en gras lorsque l’appareil a répondu à la dernière analyse. Une adresse connue uniquement par le cache réseau reste neutre. Affichage harmonisé dans la liste et le menu. [Notes en français](https://xavier38.github.io/canif/notes/0.7.22.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.22.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.22.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.22.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.22.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.22.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.22.pt.html).
+Appareils du réseau : le menu déroulant affiche désormais quatre lignes d’appareils. Le bouton « Tout voir… » donne accès à la liste complète. [Notes en français](https://xavier38.github.io/canif/notes/0.7.23.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.23.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.23.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.23.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.23.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.23.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.23.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
