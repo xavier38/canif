@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.19 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.20 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.19 / What’s new
+## Nouveautés 0.7.20 / What’s new
 
-Encoche : le branchement et le débranchement du chargeur affichent désormais un message lisible avec le pourcentage pendant quatre secondes, même sans survol et au-dessus de la barre des menus. Il disparaît automatiquement ; désactiver l’option l’efface immédiatement. La fenêtre ne prend pas le focus. [Notes en français](https://xavier38.github.io/canif/notes/0.7.19.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.19.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.19.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.19.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.19.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.19.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.19.pt.html).
+Encoche : au branchement, la limite de recharge active s’affiche avec le pourcentage de batterie ; elle reste masquée à 100 %, si elle est désactivée ou pendant une recharge complète exceptionnelle. Les deux points clignotent en rouge pour les notifications Canif non lues. Leurs objets apparaissent en haut du panneau au survol ; un clic ouvre la rubrique concernée. Le survol ne les marque pas comme lues. Menu Canif : tous les outils gardent leur place lorsqu’ils sont désactivés. Un interrupteur permet de les arrêter ou réactiver directement ; leur panneau de commandes n’est pas chargé tant qu’ils sont désactivés. [Notes en français](https://xavier38.github.io/canif/notes/0.7.20.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.20.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.20.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.20.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.20.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.20.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.20.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
