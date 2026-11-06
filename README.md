@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.17 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.18 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.17 / What’s new
+## Nouveautés 0.7.18 / What’s new
 
-Encoche : carte Système enrichie avec CPU et GPU, mémoire utilisée/totale et pression mémoire, température de la puce, puissance consommée, débits réseau et activité des disques. Les relevés existants sont réutilisés, sans sonde ni minuteur supplémentaire. Correction du pourcentage CPU dans cette carte. Les données indisponibles sont affichées par — et le premier relevé ne produit pas de faux débits. [Notes en français](https://xavier38.github.io/canif/notes/0.7.17.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.17.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.17.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.17.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.17.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.17.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.17.pt.html).
+Encoche, Horloges et DNS : classement natif macOS par glisser-déposer, avec trait d’insertion et ordre mémorisé. Les DNS personnalisés peuvent être intercalés. Interrupteurs au style macOS dans le panneau au survol : ON coloré, OFF gris, alignés à droite. [Notes en français](https://xavier38.github.io/canif/notes/0.7.18.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.18.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.18.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.18.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.18.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.18.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.18.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
