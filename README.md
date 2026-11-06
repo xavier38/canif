@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.10 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.11 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.10 / What’s new
+## Nouveautés 0.7.11 / What’s new
 
-Encoche : les nouvelles notes s’ouvrent au premier plan, prêtes à saisir, puis retrouvent leur niveau normal quand vous changez de fenêtre. La carte Batterie permet de régler directement la limite de charge de 50 à 100 %, avec les mêmes réglages que l’outil Batterie. Volume et luminosité : niveaux lisibles avec pourcentage, essais sans modifier les niveaux, suivi séparé du remplacement facultatif de l’indicateur macOS. Échecs de réglage laissés à macOS et état de l’autorisation Accessibilité explicite. [Notes en français](https://xavier38.github.io/canif/notes/0.7.10.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.10.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.10.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.10.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.10.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.10.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.10.pt.html).
+Encoche : cartes différenciées par des fonds légèrement colorés, des contours discrets et des icônes plus lisibles. Batterie verte, concentration violette, transferts bleus et aide-mémoire dorés, avec le même rectangle noir uniforme. Encoche : les nouvelles notes s’ouvrent au premier plan, prêtes à saisir, puis retrouvent leur niveau normal quand vous changez de fenêtre. La carte Batterie permet de régler directement la limite de charge de 50 à 100 %, avec les mêmes réglages que l’outil Batterie. Volume et luminosité : niveaux lisibles avec pourcentage, essais sans modifier les niveaux, suivi séparé du remplacement facultatif de l’indicateur macOS. Échecs de réglage laissés à macOS et état de l’autorisation Accessibilité explicite. [Notes en français](https://xavier38.github.io/canif/notes/0.7.11.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.11.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.11.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.11.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.11.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.11.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.11.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
