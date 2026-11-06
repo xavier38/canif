@@ -1,44 +1,37 @@
 {
- "version": "0.1.0",
+ "version": "0.1.1",
  "notes": {
   "fr": [
-   "Première version de Canif pour Linux et Windows : 11 outils, une icône près de l’horloge, en 7 langues.",
-   "Garder éveillé, Système, Horloges, Pomodoro, Alertes web, Notes, DNS, WiFi, Batterie, Micro et caméra et Apps web. Les mises à jour sont proposées dans Canif et vérifiées par signature avant installation."
+   "L’outil de cycles travail/pause s’appelle désormais Concentration."
   ],
   "en": [
-   "First Canif release for Linux and Windows: 11 tools, one icon near the clock, in 7 languages.",
-   "Keep awake, System, Clocks, Pomodoro, Web alerts, Notes, DNS, WiFi, Battery, Microphone and camera, and Web apps. Updates are offered in Canif and their signatures are verified before installation."
-  ],
-  "es": [
-   "Primera versión de Canif para Linux y Windows: 11 herramientas, un icono junto al reloj, en 7 idiomas.",
-   "Mantener despierto, Sistema, Relojes, Pomodoro, Alertas web, Notas, DNS, WiFi, Batería, Micrófono y cámara y Apps web. Canif le propone las actualizaciones y verifica su firma antes de instalarlas."
-  ],
-  "pt": [
-   "Primeira versão do Canif para Linux e Windows: 11 ferramentas, um ícone perto do relógio, em 7 idiomas.",
-   "Manter acordado, Sistema, Relógios, Pomodoro, Alertas da web, Anotações, DNS, WiFi, Bateria, Microfone e câmera e Apps web. O Canif oferece as atualizações e verifica a assinatura antes da instalação."
-  ],
-  "nl": [
-   "Eerste versie van Canif voor Linux en Windows: 11 tools, één pictogram naast de klok, in 7 talen.",
-   "Wakker houden, Systeem, Klokken, Pomodoro, Webmeldingen, Notities, DNS, WiFi, Batterij, Microfoon en camera en Webapps. Canif biedt u updates aan en controleert de handtekening vóór de installatie."
+   "The work/break timer is now called Focus."
   ],
   "de": [
-   "Erste Version von Canif für Linux und Windows: 11 Werkzeuge, ein Symbol neben der Uhr, in 7 Sprachen.",
-   "Wach halten, System, Uhren, Pomodoro, Web-Hinweise, Notizzettel, DNS, WLAN, Batterie, Mikrofon und Kamera und Web-Apps. Canif bietet Ihnen Updates an und prüft deren Signatur vor der Installation."
+   "Der Arbeits- und Pausen-Timer heißt jetzt Fokus."
+  ],
+  "nl": [
+   "De werk- en pauzetimer heet nu Concentratie."
+  ],
+  "es": [
+   "El temporizador de trabajo y descanso ahora se llama Concentración."
   ],
   "it": [
-   "Prima versione di Canif per Linux e Windows: 11 strumenti, un’icona accanto all’orologio, in 7 lingue.",
-   "Tieni sveglio, Sistema, Orologi, Pomodoro, Avvisi web, Memo, DNS, WiFi, Batteria, Microfono e fotocamera e App web. Canif ti propone gli aggiornamenti e ne verifica la firma prima dell’installazione."
+   "Il timer di lavoro e pausa si chiama ora Concentrazione."
+  ],
+  "pt": [
+   "O temporizador de trabalho e pausa agora se chama Concentração."
   ]
  },
  "linux": {
-  "url": "https://github.com/xavier38/canif/releases/download/pc-v0.1.0/Canif-linux.deb",
-  "signature": "hgyGE8cwhtCw5hy8mdIfmc3m149m2pckk767lFjwX/sJ4BLiSjblI8QrxyHHv7cNkAxW7WaT9cdUVWE/S8K6BA==",
-  "size": 7155002
+  "url": "https://github.com/xavier38/canif/releases/download/pc-v0.1.1/Canif-linux.deb",
+  "signature": "UpCCB0zXQAf70WdtAG9MlztOAQUkRjgNKo5mAVqJhRyF1jnMfO0Tsxa6jWEUxkdkmrag/AJyB0EDxxsKb3hHAg==",
+  "size": 7154948
  },
  "windows": {
-  "url": "https://github.com/xavier38/canif/releases/download/pc-v0.1.0/Canif-windows.exe",
-  "signature": "WR2byzsIn+VVU3ivIeMcmrcyHeLC29MKCwdj9ksY0SjFhjeYie15hHjs10yCglurSGEibkk4uI4pCmhw8WA0BA==",
-  "size": 3039668
+  "url": "https://github.com/xavier38/canif/releases/download/pc-v0.1.1/Canif-windows.exe",
+  "signature": "/m13JPYXPEOzzRAHLCuFQIQedrfzdtpS7fNVb5/DNAelqyUK9e8TK/xiiAw2MPlVVlcybi8Ty7GKsPLViOLSAQ==",
+  "size": 3039720
  },
  "notes_url": "https://xavier38.github.io/canif/pc/notes.html"
 }
