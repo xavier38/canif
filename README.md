@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.8 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.9 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.8 / What’s new
+## Nouveautés 0.7.9 / What’s new
 
-Micro et caméra : Activer les alertes coupe désormais aussi le badge central. Modifier ou valider les textes ne déclenche plus d’aperçu forcé ; seul Essayer lance un aperçu explicite. Encoche : un seul panneau au survol et au clic, une seule carte Transferts réunissant fichiers et progression. Les aide-mémoire sont ceux de Canif, avec création, ouverture et récupération de l’ancienne note sans doublon. Miroir : allumage explicite, bouton Éteindre la caméra et arrêt à la fermeture. Essayer la largeur affiche un contour blanc pendant cinq secondes, même si l’outil est désactivé. Les essais d’activités ont une carte visible et temporaire. [Notes en français](https://xavier38.github.io/canif/notes/0.7.8.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.8.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.8.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.8.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.8.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.8.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.8.pt.html).
+Micro et caméra : le badge central s’affiche lorsqu’un appareil dont le suivi est activé est utilisé. Désactiver un suivi retire son indicateur ; désactiver les deux ferme le badge. Les notifications macOS sont indépendantes. Correction du lien erroné introduit en 0.7.8 entre notifications et badge. [Notes en français](https://xavier38.github.io/canif/notes/0.7.9.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.9.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.9.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.9.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.9.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.9.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.9.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
