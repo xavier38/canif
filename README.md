@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.18 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.19 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.18 / What’s new
+## Nouveautés 0.7.19 / What’s new
 
-Encoche, Horloges et DNS : classement natif macOS par glisser-déposer, avec trait d’insertion et ordre mémorisé. Les DNS personnalisés peuvent être intercalés. Interrupteurs au style macOS dans le panneau au survol : ON coloré, OFF gris, alignés à droite. [Notes en français](https://xavier38.github.io/canif/notes/0.7.18.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.18.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.18.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.18.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.18.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.18.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.18.pt.html).
+Encoche : le branchement et le débranchement du chargeur affichent désormais un message lisible avec le pourcentage pendant quatre secondes, même sans survol et au-dessus de la barre des menus. Il disparaît automatiquement ; désactiver l’option l’efface immédiatement. La fenêtre ne prend pas le focus. [Notes en français](https://xavier38.github.io/canif/notes/0.7.19.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.19.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.19.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.19.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.19.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.19.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.19.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
