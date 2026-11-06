@@ -14,17 +14,17 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=071" width="720" alt="Canif"></p>
 
-Version 0.7.1 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.2 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.1 / What’s new
+## Nouveautés 0.7.2 / What’s new
 
-Encoche ancrée au Mac, survol compact et petit signal d’activité ; identification enrichie par vos noms LanScan (type, marque, modèle explicite). Les noms personnalisés restent sur le Mac. [Notes en français](https://xavier38.github.io/canif/notes/0.7.1.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.1.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.1.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.1.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.1.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.1.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.1.pt.html).
+Appareils du réseau : tri par adresse MAC et choix croissant ou décroissant pour tous les modes (pièce ou personne, type, adresse IP et adresse MAC). Le sens est mémorisé et s’applique aussi aux appareils dans chaque groupe. Les adresses inconnues restent en fin de liste. [Notes en français](https://xavier38.github.io/canif/notes/0.7.2.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.2.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.2.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.2.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.2.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.2.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.2.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
 | Outil | Ce qu'il fait |
 |---|---|
-| 🌐 **Appareils du réseau** | Appareils connectés, adresses MAC affichables, noms importés de LanScan, pièces et personnes, surveillance et réveil à distance. |
+| 🌐 **Appareils du réseau** | Appareils connectés, adresses MAC affichables, noms importés de LanScan, pièces et personnes, tri IP/MAC croissant ou décroissant, surveillance et réveil à distance. |
 | 📶 **WiFi** | La qualité de votre WiFi en un coup d'œil, avec le signal en direct. |
 | 🌍 **Horloges** | L'heure de vos villes préférées dans la barre des menus. |
 | 🌐 **DNS** | Changez de DNS en un clic : plus rapide, plus sûr, sans pub. |
@@ -61,7 +61,7 @@ Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou exper
 
 | Tool | What it does |
 |---|---|
-| 🌐 **Network devices** | Connected devices, optional MAC addresses in the list, names imported from LanScan, rooms and people, monitoring and Wake-on-LAN. |
+| 🌐 **Network devices** | Connected devices, optional MAC addresses in the list, names imported from LanScan, rooms and people, ascending or descending IP/MAC sorting, monitoring and Wake-on-LAN. |
 | 📶 **WiFi** | Your WiFi quality at a glance, with the live signal. |
 | 🌍 **Clocks** | The time in your favourite cities, in the menu bar. |
 | 🌐 **DNS** | Switch DNS in one click: faster, safer, ad-free. |
