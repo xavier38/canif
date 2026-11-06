@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.7 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.8 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.7 / What’s new
+## Nouveautés 0.7.8 / What’s new
 
-Le menu déroulant classe désormais les icônes exactement comme l’application : par rubrique, puis par ordre alphabétique du nom complet dans la langue choisie. Les noms abrégés affichés dans le menu ne changent plus cet ordre. Un classement personnalisé reste partagé avec la fenêtre. Micro et caméra : modifier les réglages après désactivation ne réaffiche plus le badge. Les rappels tardifs sont ignorés après arrêt. Deux interrupteurs indépendants permettent de suivre le microphone et la caméra ; couper un suivi retire son badge et bloque ses notifications, ses sons et ses nouvelles entrées de journal. [Notes en français](https://xavier38.github.io/canif/notes/0.7.7.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.7.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.7.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.7.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.7.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.7.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.7.pt.html).
+Micro et caméra : Activer les alertes coupe désormais aussi le badge central. Modifier ou valider les textes ne déclenche plus d’aperçu forcé ; seul Essayer lance un aperçu explicite. Encoche : un seul panneau au survol et au clic, une seule carte Transferts réunissant fichiers et progression. Les aide-mémoire sont ceux de Canif, avec création, ouverture et récupération de l’ancienne note sans doublon. Miroir : allumage explicite, bouton Éteindre la caméra et arrêt à la fermeture. Essayer la largeur affiche un contour blanc pendant cinq secondes, même si l’outil est désactivé. Les essais d’activités ont une carte visible et temporaire. [Notes en français](https://xavier38.github.io/canif/notes/0.7.8.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.8.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.8.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.8.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.8.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.8.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.8.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
