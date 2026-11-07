@@ -15,11 +15,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.29 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.30 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.29 / What’s new
+## Nouveautés 0.7.30 / What’s new
 
-Texte jusqu’à 200 % et dispositions adaptées aux petits écrans ; poignées à gauche pour réorganiser les listes et les outils. Messages du chargeur aussi dans l’encoche déployée ou épinglée. Arrêt des effets tardifs de dictée et d’alertes web après désactivation. [Français](https://xavier38.github.io/canif/notes/0.7.29.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.29.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.29.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.29.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.29.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.29.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.29.pt.html).
+Noms complets dans le menu, avec deux boutons en haut : Ouvrir Canif (Accueil) et Quitter. Suppression de la barre du bas, contraste renforcé des libellés et descriptions des réglages clarifiées. [Français](https://xavier38.github.io/canif/notes/0.7.30.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.30.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.30.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.30.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.30.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.30.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.30.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
