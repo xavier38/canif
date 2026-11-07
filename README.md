@@ -15,11 +15,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.28 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.29 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.28 / What’s new
+## Nouveautés 0.7.29 / What’s new
 
-Encoche : délai par défaut de 300 ms, réglable de 0 à 1 seconde. Moins de mises à jour multimédia répétées et de recherches inutiles pour les gestes de fenêtres. Améliorations d’accessibilité : sélection annoncée, contraste des permissions, réordonnancement sans glisser et fermeture du panneau. [Français](https://xavier38.github.io/canif/notes/0.7.28.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.28.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.28.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.28.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.28.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.28.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.28.pt.html).
+Texte jusqu’à 200 % et dispositions adaptées aux petits écrans ; poignées à gauche pour réorganiser les listes et les outils. Messages du chargeur aussi dans l’encoche déployée ou épinglée. Arrêt des effets tardifs de dictée et d’alertes web après désactivation. [Français](https://xavier38.github.io/canif/notes/0.7.29.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.29.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.29.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.29.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.29.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.29.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.29.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
