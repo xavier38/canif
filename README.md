@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.25 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.26 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.25 / What’s new
+## Nouveautés 0.7.26 / What’s new
 
-Menu adapté aux petits écrans : icônes réduites et 28 fonctionnalités sur trois rangées. Les grands écrans gardent quatre rangées de sept. Le panneau WiFi et les autres outils défilent dans la hauteur disponible ; les réglages et les boutons du bas restent accessibles. La taille est calculée selon l’écran où le menu est ouvert. [Notes en français](https://xavier38.github.io/canif/notes/0.7.25.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.25.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.25.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.25.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.25.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.25.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.25.pt.html).
+Encoche : choisissez le délai d’apparition au survol, de 0 à 1 seconde par pas de 100 ms. Le réglage est mémorisé. L’ouverture est annulée si la souris quitte la zone avant la fin du délai ; un clic reste immédiat. [Français](https://xavier38.github.io/canif/notes/0.7.26.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.26.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.26.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.26.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.26.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.26.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.26.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
