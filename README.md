@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.26 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.27 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.26 / What’s new
+## Nouveautés 0.7.27 / What’s new
 
-Encoche : choisissez le délai d’apparition au survol, de 0 à 1 seconde par pas de 100 ms. Le réglage est mémorisé. L’ouverture est annulée si la souris quitte la zone avant la fin du délai ; un clic reste immédiat. [Français](https://xavier38.github.io/canif/notes/0.7.26.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.26.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.26.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.26.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.26.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.26.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.26.pt.html).
+Encoche : le délai au survol prend en compte toute l’encoche physique, y compris son bord supérieur et ses coins, même lorsque la largeur affichée est réduite. Le décompte continue dans la zone de la barre des menus ; bouger à l’intérieur ne le recommence pas. Sortir de la zone l’annule. [Français](https://xavier38.github.io/canif/notes/0.7.27.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.27.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.27.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.27.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.27.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.27.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.27.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
