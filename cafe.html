@@ -5,26 +5,30 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Un café pour Canif</title>
 <!-- Point d'entrée du bouton « Offrez-moi un café » : pour changer de service, modifier l'adresse ci-dessous. -->
-<meta http-equiv="refresh" content="0; url=https://paypal.me/XavierROUBAUD">
 <link rel="icon" href="icon.png">
 <style>
-  body { margin:0; min-height:100vh; display:grid; place-items:center; font:18px/1.5 -apple-system, BlinkMacSystemFont, sans-serif; background:#f3f7fc; color:#0f1c2e; text-align:center; padding:16px; }
-  @media (prefers-color-scheme: dark) { body { background:#0f1622; color:#e8f0fa; } a { color:#7fb2f0; } }
-  a { color:#1f5fae; font-weight:700; }
+  :root { --bg:#f3f7fc; --ink:#0f1c2e; --moss:#1f5fae; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#0f1622; --ink:#e8f0fa; --moss:#7fb2f0; } }
+  * { box-sizing:border-box; }
+  body { margin:0; font:18px/1.5 -apple-system, BlinkMacSystemFont, sans-serif; background:var(--bg); color:var(--ink); text-align:center; }
+  main { max-width:700px; margin:0 auto; padding:40px 18px; }
+  h1 { font-size:30px; overflow-wrap:anywhere; }
+  a { color:var(--moss); font-weight:700; overflow-wrap:anywhere; }
+  .paypal { display:inline-block; border:2px solid currentColor; border-radius:16px; padding:12px 20px; }
+  :focus-visible { outline:3px solid var(--moss); outline-offset:4px; }
 </style>
-<script>location.replace("https://paypal.me/XavierROUBAUD");</script>
 </head>
 <body>
-<div>
-<p class="lang-fr">Merci ! Ouverture de PayPal… Si rien ne se passe, cliquez ici :</p>
-<p class="lang-en">Thank you! Opening PayPal… If nothing happens, click here:</p>
-<p class="lang-es">¡Gracias! Abriendo PayPal… Si no pasa nada, haz clic aquí:</p>
-<p class="lang-pt">Obrigado! Abrindo o PayPal… Se nada acontecer, clique aqui:</p>
-<p class="lang-nl">Bedankt! PayPal wordt geopend… Gebeurt er niets? Klik dan hier:</p>
-<p class="lang-de">Danke! PayPal wird geöffnet … Falls nichts passiert, klicke hier:</p>
-<p class="lang-it">Grazie! Apertura di PayPal… Se non succede nulla, clicca qui:</p>
-<p>☕ <a href="https://paypal.me/XavierROUBAUD">PayPal · Xavier Roubaud</a></p>
-</div>
+<main>
+<h1 class="lang-fr">Un café pour Canif</h1><p class="lang-fr">Merci de soutenir Canif. Pour offrir un café, ouvrez le lien PayPal ci-dessous.</p>
+<h1 class="lang-en">A coffee for Canif</h1><p class="lang-en">Thank you for supporting Canif. To buy a coffee, open the PayPal link below.</p>
+<h1 class="lang-es">Un café para Canif</h1><p class="lang-es">Gracias por apoyar Canif. Para invitar a un café, abra el enlace de PayPal de abajo.</p>
+<h1 class="lang-pt">Um café para o Canif</h1><p class="lang-pt">Obrigado por apoiar o Canif. Para oferecer um café, abra o link do PayPal abaixo.</p>
+<h1 class="lang-nl">Een koffie voor Canif</h1><p class="lang-nl">Bedankt voor uw steun aan Canif. Open de PayPal-link hieronder om een koffie aan te bieden.</p>
+<h1 class="lang-de">Ein Kaffee für Canif</h1><p class="lang-de">Vielen Dank für Ihre Unterstützung von Canif. Öffnen Sie den PayPal-Link unten, um einen Kaffee zu spendieren.</p>
+<h1 class="lang-it">Un caffè per Canif</h1><p class="lang-it">Grazie per il tuo sostegno a Canif. Per offrire un caffè, apri il link PayPal qui sotto.</p>
+<p>☕ <a class="paypal" href="https://paypal.me/XavierROUBAUD">PayPal · Xavier Roubaud</a></p>
+</main>
 <script src="lang.js"></script>
 </body>
 </html>

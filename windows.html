@@ -18,11 +18,11 @@
   .btns { display:flex; flex-wrap:wrap; gap:12px; margin:18px 0; }
   .btn { display:inline-flex; align-items:center; gap:8px; padding:12px 22px; border-radius:999px; font-weight:700; text-decoration:none; color:#fff; background:linear-gradient(135deg,#2F6DB5,#1B3F6E); }
   .btn.cafe { background:#8a5522; } .btn.plain { background:var(--card); color:var(--ink); border:1px solid var(--line); }
-  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:14px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr)); gap:14px; }
   .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:18px; } .card h3 { margin:0 0 6px; font-size:18px; } .card p { margin:0; color:var(--muted); font-size:15px; } .card p a { color:var(--moss); font-weight:600; }
   img.promo { width:100%; border-radius:18px; margin:6px 0 4px; }
   ol.etapes { padding-left:0; list-style:none; counter-reset:e; } ol.etapes li { counter-increment:e; background:var(--card); border:1px solid var(--line); border-radius:16px; padding:16px 16px 16px 64px; margin:12px 0; position:relative; }
-  ol.etapes li::before { content:counter(e); position:absolute; left:16px; top:14px; width:34px; height:34px; border-radius:50%; background:var(--moss); color:#fff; font-weight:700; display:grid; place-items:center; }
+  ol.etapes li::before { content:counter(e); position:absolute; left:16px; top:14px; width:34px; height:34px; border-radius:50%; background:var(--moss); color:var(--bg); font-weight:700; display:grid; place-items:center; }
   ol.etapes b { display:block; margin-bottom:2px; } .note { background:var(--card); border-left:4px solid #cc5c00; border-radius:8px; padding:12px 16px; margin:14px 0; color:var(--muted); font-size:15px; }
   footer { text-align:center; color:var(--muted); font-size:14px; margin-top:44px; } footer a { color:var(--moss); }
 

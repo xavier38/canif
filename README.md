@@ -6,25 +6,26 @@
 Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is included.</p>
 
 <p align="center">
-<a href="https://github.com/xavier38/canif/releases/latest/download/Canif.zip"><b>⬇︎ Télécharger / Download Canif.zip</b></a> ·
+<a href="https://github.com/xavier38/canif/releases/latest/download/Canif.zip"><b>⬇︎ Télécharger pour Mac / Download for Mac</b></a> ·
 <a href="https://xavier38.github.io/canif/">Site</a> ·
+<a href="https://xavier38.github.io/canif/#compatibilite">Fonctions par système / Features by OS</a> ·
 <a href="https://xavier38.github.io/canif/installation.html">Installation</a> ·
 <a href="https://xavier38.github.io/canif/confidentialite.html">Confidentialité / Privacy</a>
 </p>
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.27 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.28 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.27 / What’s new
+## Nouveautés 0.7.28 / What’s new
 
-Encoche : le délai au survol prend en compte toute l’encoche physique, y compris son bord supérieur et ses coins, même lorsque la largeur affichée est réduite. Le décompte continue dans la zone de la barre des menus ; bouger à l’intérieur ne le recommence pas. Sortir de la zone l’annule. [Français](https://xavier38.github.io/canif/notes/0.7.27.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.27.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.27.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.27.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.27.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.27.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.27.pt.html).
+Encoche : délai par défaut de 300 ms, réglable de 0 à 1 seconde. Moins de mises à jour multimédia répétées et de recherches inutiles pour les gestes de fenêtres. Améliorations d’accessibilité : sélection annoncée, contraste des permissions, réordonnancement sans glisser et fermeture du panneau. [Français](https://xavier38.github.io/canif/notes/0.7.28.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.28.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.28.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.28.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.28.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.28.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.28.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
 | Outil | Ce qu'il fait |
 |---|---|
-| 🌐 **Appareils du réseau** | Appareils connectés, adresses MAC affichables, noms personnalisés importés, pièces et personnes, tri par nom/IP/MAC croissant ou décroissant, enrichissement Home Assistant, surveillance et réveil à distance. |
+| 🌐 **Appareils du réseau** | Appareils connectés, adresses MAC affichables, noms personnalisés, pièces et personnes, tri par nom/IP/MAC croissant ou décroissant, surveillance et réveil à distance. |
 | 📶 **WiFi** | La qualité de votre WiFi en un coup d'œil, avec le signal en direct. |
 | 🌍 **Horloges** | L'heure de vos villes préférées dans la barre des menus. |
 | 🌐 **DNS** | Changez de DNS en un clic : plus rapide, plus sûr, sans pub. |
@@ -61,7 +62,7 @@ Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou exper
 
 | Tool | What it does |
 |---|---|
-| 🌐 **Network devices** | Connected devices, optional MAC addresses in the list, imported custom names, rooms and people, ascending or descending name/IP/MAC sorting, Home Assistant enrichment, monitoring and Wake-on-LAN. |
+| 🌐 **Network devices** | Connected devices, optional MAC addresses in the list, custom names, rooms and people, ascending or descending name/IP/MAC sorting, monitoring and Wake-on-LAN. |
 | 📶 **WiFi** | Your WiFi quality at a glance, with the live signal. |
 | 🌍 **Clocks** | The time in your favourite cities, in the menu bar. |
 | 🌐 **DNS** | Switch DNS in one click: faster, safer, ad-free. |
