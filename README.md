@@ -113,4 +113,4 @@ Tout reste sur votre Mac. Statistiques d'usage anonymes **désactivées par déf
 
 ## Linux et Windows
 
-Canif PC 0.1.1 : 11 outils en 7 langues. [Linux](https://xavier38.github.io/canif/linux.html) · [Windows](https://xavier38.github.io/canif/windows.html). Les tableaux distinguent les outils disponibles de ceux à venir.
+Canif PC 0.2.0 : 20 outils par système, en 7 langues. Les coins actifs sont configurables sur Linux et Windows. [Linux](https://xavier38.github.io/canif/linux.html) · [Windows](https://xavier38.github.io/canif/windows.html). Les tableaux distinguent les outils disponibles de ceux à venir.

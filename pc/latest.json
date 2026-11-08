@@ -1,37 +1,100 @@
 {
- "version": "0.1.1",
+ "version": "0.2.0",
  "notes": {
   "fr": [
-   "L’outil de cycles travail/pause s’appelle désormais Concentration."
+   "20 outils sur chaque système, avec une sélection adaptée à Linux ou Windows.",
+   "Nouveaux outils : pipette, capture et reconnaissance de texte, historique du presse-papiers facultatif, abréviations, majuscules, clavier et souris, rangement des fenêtres et désinstallation.",
+   "Sous Linux, la dictée transcrit localement après le téléchargement initial du modèle. Sous Windows, la luminosité se règle sur les écrans compatibles.",
+   "Une fonction désactivée reste dans la grille. Les vingt outils tiennent sur trois rangées et le panneau défile sur les petits écrans.",
+   "Accessibilité : choix DNS utilisables au clavier, noms des boutons traduits et annonce de la rubrique active, avec conservation du focus.",
+   "Classez les modules et les villes avec les poignées à gauche ; ordre mémorisé, commandes au clavier et alternative sans glisser.",
+   "Les noms complets des outils restent lisibles dans la grille, y compris Majuscules.",
+   "Sous Windows, Canif peut rétablir l’affichage au démarrage après une erreur d’initialisation du rendu.",
+   "Coins actifs : choisissez une action pour chaque coin de l’écran, ainsi que la taille de la zone et le délai.",
+   "La grille s’ouvre entièrement dans la zone visible, au-dessus ou sous la barre des tâches selon sa position. L’icône du couteau est sans fond."
   ],
   "en": [
-   "The work/break timer is now called Focus."
+   "20 tools on each system, with a selection tailored to Linux or Windows.",
+   "New tools: colour picker, screenshots and text recognition, optional clipboard history, abbreviations, Caps Lock, keyboard and mouse, window snapping and uninstalling.",
+   "On Linux, dictation transcribes locally after the initial model download. On Windows, brightness can be adjusted on compatible displays.",
+   "Disabled tools remain in the grid. The twenty tools fit in three rows, and the panel scrolls on smaller screens.",
+   "Accessibility: keyboard-operable DNS choices, translated button names and current-section announcements, with focus preserved.",
+   "Arrange tools and cities using the handles on the left; saved order, keyboard controls and an alternative to dragging.",
+   "Full tool names remain readable in the grid, including Caps Lock.",
+   "On Windows, Canif can recover the display at startup after a rendering initialization error.",
+   "Hot corners: choose an action for each screen corner, along with the zone size and delay.",
+   "The grid opens fully within the visible work area, above or below the taskbar. The knife icon has a transparent background."
   ],
   "de": [
-   "Der Arbeits- und Pausen-Timer heißt jetzt Fokus."
+   "20 Werkzeuge auf jedem System, mit einer an Linux oder Windows angepassten Auswahl.",
+   "Neue Werkzeuge: Pipette, Bildschirmfotos und Texterkennung, optionaler Zwischenablageverlauf, Abkürzungen, Feststelltaste, Tastatur und Maus, Fensteranordnung und Deinstallation.",
+   "Unter Linux wird Sprache nach dem ersten Modelldownload lokal in Text umgewandelt. Unter Windows lässt sich die Helligkeit kompatibler Displays einstellen.",
+   "Ausgeschaltete Funktionen bleiben im Raster. Die zwanzig Werkzeuge passen in drei Reihen; auf kleinen Bildschirmen lässt sich der Bereich scrollen.",
+   "Barrierefreiheit: DNS-Auswahl per Tastatur, übersetzte Schaltflächennamen und Kennzeichnung des aktuellen Bereichs bei erhaltenem Fokus.",
+   "Ordnen Sie Werkzeuge und Städte mit den Griffen links an; gespeicherte Reihenfolge, Tastaturbedienung und Alternative zum Ziehen.",
+   "Die vollständigen Werkzeugnamen bleiben im Raster lesbar, einschließlich Feststelltaste.",
+   "Unter Windows kann Canif die Anzeige beim Start nach einem Fehler bei der Initialisierung der Darstellung wiederherstellen.",
+   "Aktive Ecken: Wählen Sie für jede Bildschirmecke eine Aktion sowie Größe und Verzögerung des Bereichs.",
+   "Das Raster öffnet sich vollständig im sichtbaren Arbeitsbereich, oberhalb oder unterhalb der Taskleiste. Das Messersymbol hat einen transparenten Hintergrund."
   ],
   "nl": [
-   "De werk- en pauzetimer heet nu Concentratie."
+   "20 tools op elk systeem, met een selectie voor Linux of Windows.",
+   "Nieuwe tools: pipet, schermafbeeldingen en tekstherkenning, optionele klembordgeschiedenis, afkortingen, Caps Lock, toetsenbord en muis, vensters ordenen en verwijderen van apps.",
+   "Onder Linux wordt spraak na de eerste modeldownload lokaal omgezet in tekst. Onder Windows kunt u de helderheid van compatibele schermen aanpassen.",
+   "Uitgeschakelde functies blijven in het raster. De twintig tools passen in drie rijen; op kleine schermen kunt u door het paneel scrollen.",
+   "Toegankelijkheid: DNS-keuzes via het toetsenbord, vertaalde knopnamen en een aangekondigde actieve rubriek, met behoud van de focus.",
+   "Orden uw hulpmiddelen en steden met de grepen links; opgeslagen volgorde, toetsenbordbediening en alternatief voor slepen.",
+   "De volledige namen van de hulpmiddelen blijven leesbaar in het raster, ook Caps Lock.",
+   "Onder Windows kan Canif de weergave bij het opstarten herstellen na een fout bij het initialiseren van de weergave.",
+   "Actieve hoeken: kies per schermhoek een actie en stel de zonegrootte en vertraging in.",
+   "Het raster opent volledig binnen het zichtbare werkgebied, boven of onder de taakbalk. Het mespictogram heeft een transparante achtergrond."
   ],
   "es": [
-   "El temporizador de trabajo y descanso ahora se llama Concentración."
+   "20 herramientas en cada sistema, con una selección adaptada a Linux o Windows.",
+   "Nuevas herramientas: cuentagotas, capturas y reconocimiento de texto, historial opcional del portapapeles, abreviaturas, Bloq Mayús, teclado y ratón, organización de ventanas y desinstalación.",
+   "En Linux, el dictado transcribe localmente tras la descarga inicial del modelo. En Windows, puede ajustar el brillo de las pantallas compatibles.",
+   "Las funciones desactivadas permanecen en la cuadrícula. Las veinte herramientas caben en tres filas y el panel permite desplazarse en pantallas pequeñas.",
+   "Accesibilidad: selección de DNS mediante el teclado, nombres de botones traducidos e indicación de la sección activa, conservando el foco.",
+   "Ordene las herramientas y las ciudades con las asas de la izquierda; orden guardado, controles de teclado y alternativa a arrastrar.",
+   "Los nombres completos de las herramientas siguen siendo legibles en la cuadrícula, incluido Bloq Mayús.",
+   "En Windows, Canif puede recuperar la visualización al iniciarse tras un error de inicialización del renderizado.",
+   "Esquinas activas: elija una acción para cada esquina de la pantalla, además del tamaño de la zona y la demora.",
+   "La cuadrícula se abre completamente dentro del área de trabajo visible, encima o debajo de la barra de tareas. El icono del cuchillo tiene fondo transparente."
   ],
   "it": [
-   "Il timer di lavoro e pausa si chiama ora Concentrazione."
+   "20 strumenti su ogni sistema, con una selezione adatta a Linux o Windows.",
+   "Nuovi strumenti: contagocce, catture e riconoscimento del testo, cronologia facoltativa degli appunti, abbreviazioni, Bloc Maiusc, tastiera e mouse, disposizione delle finestre e disinstallazione.",
+   "Su Linux, la dettatura trascrive localmente dopo il download iniziale del modello. Su Windows, puoi regolare la luminosità degli schermi compatibili.",
+   "Le funzioni disattivate restano nella griglia. I venti strumenti entrano in tre righe e il pannello scorre sugli schermi piccoli.",
+   "Accessibilità: scelte DNS utilizzabili dalla tastiera, nomi dei pulsanti tradotti e indicazione della sezione attiva, mantenendo il focus.",
+   "Ordina strumenti e città con le maniglie a sinistra; ordine salvato, comandi da tastiera e alternativa al trascinamento.",
+   "I nomi completi degli strumenti restano leggibili nella griglia, incluso Bloc Maiusc.",
+   "Su Windows Canif può ripristinare la visualizzazione all’avvio dopo un errore di inizializzazione del rendering.",
+   "Angoli attivi: scegli un’azione per ogni angolo dello schermo e imposta dimensioni e ritardo della zona.",
+   "La griglia si apre interamente nell’area di lavoro visibile, sopra o sotto la barra delle applicazioni. L’icona del coltellino ha uno sfondo trasparente."
   ],
   "pt": [
-   "O temporizador de trabalho e pausa agora se chama Concentração."
+   "20 ferramentas em cada sistema, com uma seleção adaptada ao Linux ou Windows.",
+   "Novas ferramentas: conta-gotas, capturas e reconhecimento de texto, histórico opcional da área de transferência, abreviações, Caps Lock, teclado e mouse, organização de janelas e desinstalação.",
+   "No Linux, o ditado transcreve localmente após o download inicial do modelo. No Windows, você pode ajustar o brilho das telas compatíveis.",
+   "As funções desativadas continuam na grade. As vinte ferramentas cabem em três linhas e o painel permite rolar em telas pequenas.",
+   "Acessibilidade: opções de DNS pelo teclado, nomes dos botões traduzidos e indicação da seção ativa, preservando o foco.",
+   "Organize ferramentas e cidades com as alças à esquerda; ordem salva, controles pelo teclado e alternativa ao arraste.",
+   "Os nomes completos das ferramentas continuam legíveis na grade, incluindo Caps Lock.",
+   "No Windows, o Canif pode recuperar a exibição ao iniciar após um erro de inicialização da renderização.",
+   "Cantos ativos: escolha uma ação para cada canto da tela, além do tamanho da área e do atraso.",
+   "A grade abre totalmente na área de trabalho visível, acima ou abaixo da barra de tarefas. O ícone do canivete tem fundo transparente."
   ]
  },
  "linux": {
-  "url": "https://github.com/xavier38/canif/releases/download/pc-v0.1.1/Canif-linux.deb",
-  "signature": "UpCCB0zXQAf70WdtAG9MlztOAQUkRjgNKo5mAVqJhRyF1jnMfO0Tsxa6jWEUxkdkmrag/AJyB0EDxxsKb3hHAg==",
-  "size": 7154948
+  "url": "https://github.com/xavier38/canif/releases/download/pc-v0.2.0/Canif-linux.deb",
+  "signature": "OAJ5W/W65yTL8fXNMI9kS9LSPQh93mxqyohT8iZ0ms/JjMAxOtKFJt+uv558gVCqpxvYEBYD9RIiWaqi8QH2DA==",
+  "size": 8102196
  },
  "windows": {
-  "url": "https://github.com/xavier38/canif/releases/download/pc-v0.1.1/Canif-windows.exe",
-  "signature": "/m13JPYXPEOzzRAHLCuFQIQedrfzdtpS7fNVb5/DNAelqyUK9e8TK/xiiAw2MPlVVlcybi8Ty7GKsPLViOLSAQ==",
-  "size": 3039720
+  "url": "https://github.com/xavier38/canif/releases/download/pc-v0.2.0/Canif-windows.exe",
+  "signature": "QlCvOEsQ/qojBHssnSzCQb8IpW9232uv/vCd+FV3Bgiv6FA1eqvw1O6PEXZAXAmPluvqJgoDgxY8iyL1OBzYAw==",
+  "size": 3175416
  },
  "notes_url": "https://xavier38.github.io/canif/pc/notes.html"
 }
