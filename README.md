@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.36 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.37 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.36 / What’s new
+## Nouveautés 0.7.37 / What’s new
 
-Les notifications Bluetooth affichent le nom de l’appareil ou son adresse si macOS ne fournit pas de nom. Les réglages des points au repos se trouvent maintenant dans Activités, sous le nom « Encoche au repos ». [Français](https://xavier38.github.io/canif/notes/0.7.36.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.36.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.36.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.36.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.36.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.36.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.36.pt.html).
+Les notifications système indiquent précisément s’il s’agit d’un disque presque plein ou d’une application bloquée à 100 % du processeur. Chaque notification peut être acquittée depuis le menu Canif, l’Encoche ou le bouton « Acquitter » de la notification macOS. [Français](https://xavier38.github.io/canif/notes/0.7.37.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.37.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.37.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.37.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.37.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.37.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.37.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
