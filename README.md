@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.32 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.33 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.32 / What’s new
+## Nouveautés 0.7.33 / What’s new
 
-Les effets des notifications sont visibles dès leur sélection. La pulsation dure deux secondes, avec un fondu d’une seconde dans chaque sens. Configurez séparément les points au repos, leur couleur, leur nombre et leur effet. Les alertes Bluetooth et réseau précisent le nom de l’appareil disponible. La taille du texte propose maintenant 80 % et 90 %. [Français](https://xavier38.github.io/canif/notes/0.7.32.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.32.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.32.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.32.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.32.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.32.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.32.pt.html).
+Les réglages des points au repos restent accessibles même lorsqu’ils sont masqués, sans faux point dans l’aperçu. Pour chaque famille, choisissez la durée des points : de 1 seconde à 1 heure ou jusqu’à l’acquittement. Les notifications restent dans Canif après l’arrêt des points. Les points ont cinq tailles (×1 à ×3 par pas de 0,5). Les alertes Bluetooth et réseau affichent le nom connu ; taille du texte à 80 % ou 90 %. [Français](https://xavier38.github.io/canif/notes/0.7.33.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.33.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.33.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.33.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.33.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.33.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.33.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
