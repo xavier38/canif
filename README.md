@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.34 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.35 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.34 / What’s new
+## Nouveautés 0.7.35 / What’s new
 
-Les côtés de l’Encoche s’élargissent brièvement pour nommer l’appareil Bluetooth connecté ou déconnecté, sans attendre le survol. Le nom reste visible en premier dans le panneau déplié. Les notifications ont cinq tailles de points (×1 à ×3 par pas de 0,5) et une durée réglable de 1 seconde à 1 heure ou jusqu’à l’acquittement. Les alertes réseau affichent aussi le nom connu. [Français](https://xavier38.github.io/canif/notes/0.7.34.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.34.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.34.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.34.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.34.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.34.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.34.pt.html).
+Les points de repos de l’Encoche reviennent après l’expiration d’un signal, même si la notification reste à acquitter. Les points latéraux sont verticaux, avec 1, 2 ou 3 points au choix. Le nom de l’appareil Bluetooth apparaît aussi en premier dans la liste déroulante. [Français](https://xavier38.github.io/canif/notes/0.7.35.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.35.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.35.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.35.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.35.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.35.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.35.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
