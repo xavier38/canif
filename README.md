@@ -6,26 +6,25 @@
 Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is included.</p>
 
 <p align="center">
-<a href="https://github.com/xavier38/canif/releases/latest/download/Canif.zip"><b>⬇︎ Télécharger pour Mac / Download for Mac</b></a> ·
+<a href="https://github.com/xavier38/canif/releases/latest/download/Canif.zip"><b>⬇︎ Télécharger / Download Canif.zip</b></a> ·
 <a href="https://xavier38.github.io/canif/">Site</a> ·
-<a href="https://xavier38.github.io/canif/#compatibilite">Fonctions par système / Features by OS</a> ·
 <a href="https://xavier38.github.io/canif/installation.html">Installation</a> ·
 <a href="https://xavier38.github.io/canif/confidentialite.html">Confidentialité / Privacy</a>
 </p>
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.30 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.31 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.30 / What’s new
+## Nouveautés 0.7.31 / What’s new
 
-Noms complets dans le menu, avec deux boutons en haut : Ouvrir Canif (Accueil) et Quitter. Suppression de la barre du bas, contraste renforcé des libellés et descriptions des réglages clarifiées. [Français](https://xavier38.github.io/canif/notes/0.7.30.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.30.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.30.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.30.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.30.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.30.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.30.pt.html).
+Nouvelle rubrique Notifications sous Accueil : réglages par famille, couleurs et effets des points autour de l’Encoche, destinations d’affichage, alertes critiques et croix d’acquittement dans l’Encoche comme dans la liste Canif. L’Accueil est allégé avec une rubrique dédiée aux réglages généraux. [Notes en français](https://xavier38.github.io/canif/notes/0.7.31.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.31.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.31.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.31.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.31.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.31.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.31.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
 | Outil | Ce qu'il fait |
 |---|---|
-| 🌐 **Appareils du réseau** | Appareils connectés, adresses MAC affichables, noms personnalisés, pièces et personnes, tri par nom/IP/MAC croissant ou décroissant, surveillance et réveil à distance. |
+| 🌐 **Appareils du réseau** | Appareils connectés, adresses MAC affichables, noms personnalisés importés, pièces et personnes, tri par nom/IP/MAC croissant ou décroissant, surveillance et réveil à distance. |
 | 📶 **WiFi** | La qualité de votre WiFi en un coup d'œil, avec le signal en direct. |
 | 🌍 **Horloges** | L'heure de vos villes préférées dans la barre des menus. |
 | 🌐 **DNS** | Changez de DNS en un clic : plus rapide, plus sûr, sans pub. |
@@ -62,7 +61,7 @@ Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou exper
 
 | Tool | What it does |
 |---|---|
-| 🌐 **Network devices** | Connected devices, optional MAC addresses in the list, custom names, rooms and people, ascending or descending name/IP/MAC sorting, monitoring and Wake-on-LAN. |
+| 🌐 **Network devices** | Connected devices, optional MAC addresses in the list, imported custom names, rooms and people, ascending or descending name/IP/MAC sorting, monitoring and Wake-on-LAN. |
 | 📶 **WiFi** | Your WiFi quality at a glance, with the live signal. |
 | 🌍 **Clocks** | The time in your favourite cities, in the menu bar. |
 | 🌐 **DNS** | Switch DNS in one click: faster, safer, ad-free. |
@@ -113,4 +112,4 @@ Tout reste sur votre Mac. Statistiques d'usage anonymes **désactivées par déf
 
 ## Linux et Windows
 
-Canif PC 0.2.0 : 20 outils par système, en 7 langues. Les coins actifs sont configurables sur Linux et Windows. [Linux](https://xavier38.github.io/canif/linux.html) · [Windows](https://xavier38.github.io/canif/windows.html). Les tableaux distinguent les outils disponibles de ceux à venir.
+Canif PC 0.2.0 : 20 outils par système en 7 langues, avec les coins actifs configurables sur Linux et Windows. [Linux](https://xavier38.github.io/canif/linux.html) · [Windows](https://xavier38.github.io/canif/windows.html). Les tableaux distinguent les outils disponibles de ceux à venir.
