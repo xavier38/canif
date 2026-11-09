@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.35 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.36 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.35 / What’s new
+## Nouveautés 0.7.36 / What’s new
 
-Les points de repos de l’Encoche reviennent après l’expiration d’un signal, même si la notification reste à acquitter. Les points latéraux sont verticaux, avec 1, 2 ou 3 points au choix. Le nom de l’appareil Bluetooth apparaît aussi en premier dans la liste déroulante. [Français](https://xavier38.github.io/canif/notes/0.7.35.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.35.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.35.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.35.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.35.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.35.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.35.pt.html).
+Les notifications Bluetooth affichent le nom de l’appareil ou son adresse si macOS ne fournit pas de nom. Les réglages des points au repos se trouvent maintenant dans Activités, sous le nom « Encoche au repos ». [Français](https://xavier38.github.io/canif/notes/0.7.36.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.36.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.36.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.36.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.36.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.36.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.36.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
