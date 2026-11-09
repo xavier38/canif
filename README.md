@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.31 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.32 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.31 / What’s new
+## Nouveautés 0.7.32 / What’s new
 
-Nouvelle rubrique Notifications sous Accueil : réglages par famille, couleurs et effets des points autour de l’Encoche, destinations d’affichage, alertes critiques et croix d’acquittement dans l’Encoche comme dans la liste Canif. L’Accueil est allégé avec une rubrique dédiée aux réglages généraux. [Notes en français](https://xavier38.github.io/canif/notes/0.7.31.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.31.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.31.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.31.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.31.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.31.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.31.pt.html).
+Les effets des notifications sont visibles dès leur sélection. La pulsation dure deux secondes, avec un fondu d’une seconde dans chaque sens. Configurez séparément les points au repos, leur couleur, leur nombre et leur effet. Les alertes Bluetooth et réseau précisent le nom de l’appareil disponible. La taille du texte propose maintenant 80 % et 90 %. [Français](https://xavier38.github.io/canif/notes/0.7.32.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.32.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.32.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.32.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.32.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.32.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.32.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
