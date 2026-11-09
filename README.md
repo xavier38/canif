@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.38 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.39 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.38 / What’s new
+## Nouveautés 0.7.39 / What’s new
 
-Les alertes Bluetooth ne sont émises que si macOS confirme une liaison active avec le Mac ; Canif ne recherche pas les appareils simplement à proximité. Les points au repos restent visibles lorsque l’Encoche est ouverte, sans activité ni notification. [Français](https://xavier38.github.io/canif/notes/0.7.38.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.38.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.38.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.38.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.38.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.38.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.38.pt.html).
+Les points autour de l’Encoche et sa popup ont des réglages indépendants pour les notifications du chargeur et du Bluetooth. L’aperçu des réglages respecte la désactivation des points. [Français](https://xavier38.github.io/canif/notes/0.7.39.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.39.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.39.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.39.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.39.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.39.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.39.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
