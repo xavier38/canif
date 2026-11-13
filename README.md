@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.41 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.42 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.41 / What’s new
+## Nouveautés 0.7.42 / What’s new
 
-Les indicateurs de l’encoche deviennent des flèches orientées selon son état, avec trois tailles par famille de notifications. Notch indicators are now directional arrows, with three sizes per notification category. [Français](https://xavier38.github.io/canif/notes/0.7.41.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.41.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.41.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.41.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.41.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.41.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.41.pt.html).
+Choisissez des flèches ou des cercles autour de l’encoche pour chaque famille de notifications et pour le repos. Choose arrows or circles around the notch for each notification category and the idle state. [Français](https://xavier38.github.io/canif/notes/0.7.42.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.42.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.42.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.42.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.42.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.42.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.42.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
