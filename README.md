@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.43 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.44 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.43 / What’s new
+## Nouveautés 0.7.44 / What’s new
 
-Les indicateurs au repos restent visibles au-dessus de la barre des menus et réagissent immédiatement aux réglages. Idle indicators stay visible above the menu bar and respond immediately to settings changes. [Français](https://xavier38.github.io/canif/notes/0.7.43.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.43.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.43.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.43.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.43.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.43.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.43.pt.html).
+Les flèches et les cercles sont masqués lorsque l’encoche est dépliée et réapparaissent à sa fermeture selon vos réglages. Arrows and circles are hidden while the notch is expanded and return when it closes, according to your settings. [Français](https://xavier38.github.io/canif/notes/0.7.44.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.44.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.44.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.44.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.44.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.44.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.44.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
