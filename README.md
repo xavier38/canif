@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.39 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.40 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.39 / What’s new
+## Nouveautés 0.7.40 / What’s new
 
-Les points autour de l’Encoche et sa popup ont des réglages indépendants pour les notifications du chargeur et du Bluetooth. L’aperçu des réglages respecte la désactivation des points. [Français](https://xavier38.github.io/canif/notes/0.7.39.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.39.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.39.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.39.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.39.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.39.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.39.pt.html).
+Un clic sur un rappel de l’agenda ouvre le rendez-vous correspondant dans Calendrier. Clicking a calendar reminder opens its event in Calendar. [Français](https://xavier38.github.io/canif/notes/0.7.40.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.40.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.40.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.40.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.40.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.40.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.40.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
