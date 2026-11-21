@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 1.0.2 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 1.0.3 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 1.0.2 / What’s new
+## Nouveautés 1.0.3 / What’s new
 
-Version de maintenance : numéro de version suivant, sans changement visible. Maintenance release: next version number, no visible change. [Français](https://xavier38.github.io/canif/notes/1.0.2.fr.html) · [English](https://xavier38.github.io/canif/notes/1.0.2.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/1.0.2.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/1.0.2.nl.html) · [Español](https://xavier38.github.io/canif/notes/1.0.2.es.html) · [Italiano](https://xavier38.github.io/canif/notes/1.0.2.it.html) · [Português](https://xavier38.github.io/canif/notes/1.0.2.pt.html).
+Palette de commandes ⌃⌥⌘Espace pour lancer n’importe quel outil ou action au clavier ; Canif plus léger au repos. Command palette ⌃⌥⌘Space to launch any tool or action from the keyboard; Canif lighter when idle. [Français](https://xavier38.github.io/canif/notes/1.0.3.fr.html) · [English](https://xavier38.github.io/canif/notes/1.0.3.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/1.0.3.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/1.0.3.nl.html) · [Español](https://xavier38.github.io/canif/notes/1.0.3.es.html) · [Italiano](https://xavier38.github.io/canif/notes/1.0.3.it.html) · [Português](https://xavier38.github.io/canif/notes/1.0.3.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
