@@ -14,11 +14,11 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 0.7.44 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 0.7.39 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 0.7.44 / What’s new
+## Nouveautés 0.7.39 / What’s new
 
-Les flèches et les cercles sont masqués lorsque l’encoche est dépliée et réapparaissent à sa fermeture selon vos réglages. Arrows and circles are hidden while the notch is expanded and return when it closes, according to your settings. [Français](https://xavier38.github.io/canif/notes/0.7.44.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.44.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.44.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.44.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.44.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.44.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.44.pt.html).
+Les points autour de l’Encoche et sa popup ont des réglages indépendants pour les notifications du chargeur et du Bluetooth. L’aperçu des réglages respecte la désactivation des points. [Français](https://xavier38.github.io/canif/notes/0.7.39.fr.html) · [English](https://xavier38.github.io/canif/notes/0.7.39.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/0.7.39.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/0.7.39.nl.html) · [Español](https://xavier38.github.io/canif/notes/0.7.39.es.html) · [Italiano](https://xavier38.github.io/canif/notes/0.7.39.it.html) · [Português](https://xavier38.github.io/canif/notes/0.7.39.pt.html).
 
 ## 🇫🇷 Les 28 outils
 
