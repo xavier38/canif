@@ -2,8 +2,8 @@
 
 <h1 align="center">Canif</h1>
 
-<p align="center"><b>Le couteau suisse de votre Mac : 28 outils dans une seule app, gratuite, en 7 langues. Moka est inclus.</b><br>
-Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is included.</p>
+<p align="center"><b>Le couteau suisse de votre Mac : 31 outils dans une seule app, gratuite, en 7 langues. Moka est inclus.</b><br>
+Your Mac's Swiss army knife: 31 tools in one free app, in 7 languages. Moka is included.</p>
 
 <p align="center">
 <a href="https://github.com/xavier38/canif/releases/latest/download/Canif.zip"><b>⬇︎ Télécharger / Download Canif.zip</b></a> ·
@@ -14,13 +14,13 @@ Your Mac's Swiss army knife: 28 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
 
-Version 1.0.3 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 1.3.2 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 1.0.3 / What’s new
+## Nouveautés 1.3.2 / What’s new
 
-Palette de commandes ⌃⌥⌘Espace pour lancer n’importe quel outil ou action au clavier ; Canif plus léger au repos. Command palette ⌃⌥⌘Space to launch any tool or action from the keyboard; Canif lighter when idle. [Français](https://xavier38.github.io/canif/notes/1.0.3.fr.html) · [English](https://xavier38.github.io/canif/notes/1.0.3.en.html) · [Deutsch](https://xavier38.github.io/canif/notes/1.0.3.de.html) · [Nederlands](https://xavier38.github.io/canif/notes/1.0.3.nl.html) · [Español](https://xavier38.github.io/canif/notes/1.0.3.es.html) · [Italiano](https://xavier38.github.io/canif/notes/1.0.3.it.html) · [Português](https://xavier38.github.io/canif/notes/1.0.3.pt.html).
+Nouveaux outils Antivol, Niveau à bulle et Modding divers (porte qui grince, clavier en musique, morse) ; signaux sur le Mac (vibration du trackpad, voyant ⇪, flash du clavier) pour chaque outil qui prévient ; annonces vocales en option ; LED du MagSafe au choix. New Anti-theft, Spirit level and Mods tools (creaking lid, keyboard that pulses with music, Morse); signals on the Mac (trackpad vibration, ⇪ light, keyboard flash) for every tool that alerts you; optional spoken announcements; choose your MagSafe LED.
 
-## 🇫🇷 Les 28 outils
+## 🇫🇷 Les 31 outils
 
 | Outil | Ce qu'il fait |
 |---|---|
@@ -33,9 +33,9 @@ Palette de commandes ⌃⌥⌘Espace pour lancer n’importe quel outil ou actio
 | 🪟 **Aperçu du Dock** | Survolez une icône du Dock pour voir ses fenêtres, la musique en cours (Musique, Spotify) ou un dossier. Aussi avec ⌘⇥, boutons sur les vignettes, gestes de défilement et indicateur d'app active. |
 | ▦ **Ranger les fenêtres** | Glissez une fenêtre contre un bord, ou ⌃⌥ + flèche. |
 | 🎙️ **Dictée** | Maintenez un raccourci et parlez : le texte s'écrit tout seul, sans internet. Modèle au choix (Parakeet Ultra/V3/V2, Canary, Whisper Small/Medium/Turbo/Large, SenseVoice), retouche par IA facultative. |
-| ✂️ **Couper-coller** | ⌘X puis ⌘V pour déplacer des fichiers dans le Finder. |
+| ✂️ **Couper-coller** | ⌘X puis ⌘V pour déplacer des fichiers dans le Finder. Son au choix pour ⌘X, ⌘C et ⌘V, flash de couleur à l’écran. |
 | ⇪ **Majuscules** | Voyez tout de suite quand le verrouillage des majuscules est activé. |
-| 🔔 **Alertes web** | Soyez prévenu quand une partie d'une page web change. |
+| 🔔 **Alertes web** | Soyez prévenu quand une partie d'une page web change. Annonce vocale en option. |
 | 🔴 **Micro et caméra** | Un badge (message et son au choix) s'affiche dès qu'une app allume votre micro ou votre caméra. |
 | 📊 **Système** | Processeur (cœurs performance/efficaces), carte graphique, mémoire (historique, top 10 par catégorie), disques (volumes, activité et carte de ce qui prend de la place), réseau, températures, consommation, batterie (cycles, santé). Mesures au choix dans la barre des menus. |
 | ⬛️ **Encoche** | Cartes colorées pour la musique, l’agenda, le son, l’éveil, le suivi micro/caméra, les horloges, le WiFi détaillé, le système, les alertes web, la concentration, la batterie, les fichiers et les notes. Commandes rapides de capture, pipette et rangement des fenêtres. |
@@ -47,17 +47,20 @@ Palette de commandes ⌃⌥⌘Espace pour lancer n’importe quel outil ou actio
 | 🎨 **Pipette** | Prenez la couleur de n'importe quel pixel, dans le format voulu (HEX, RGB, HSL, SwiftUI…), avec le contraste WCAG. |
 | 🔊 **Son** | Changez de sortie en un clic, volume par app (0–150 %) et sortie par app, égaliseur 10 bandes (bêta). |
 | 🖥️ **Écrans externes** | Réglez la luminosité et le volume de vos écrans externes, comme celui du Mac. |
-| 🔋 **Batterie** | Limitez la charge de la batterie pour qu'elle dure des années. Assistant installé avec le mot de passe administrateur ; méthode de secours selon les Mac. |
+| 🔋 **Batterie** | Limitez la charge de la batterie pour qu'elle dure des années. Assistant installé avec le mot de passe administrateur ; méthode de secours selon les Mac. LED du MagSafe au choix, annonce vocale en option. |
 | 🗑️ **Désinstaller** | Désinstallez une app et tous ses fichiers cachés, en un geste. |
 | 🖱️ **Clavier et souris** | Comme Mos et SlowQuit : molette douce, sens de défilement séparé, ⌘Q protégé et nettoyage du clavier. |
 | ⏱️ **Concentration** | Travaillez par séances de 25 minutes, avec de vraies pauses. |
 | 🗒️ **Aide-mémoire** | Des notes autocollantes sur le bureau, enregistrées toutes seules (remplace l'Aide-mémoire de macOS). |
+| 🪄 **Modding divers** | L’écran grince comme une vieille porte quand vous l’ouvrez, le clavier pulse avec la musique, et le voyant ⇪ parle en morse. |
+| 🚨 **Antivol** | Armez-le en partant : si quelqu’un bouge le Mac, débranche le chargeur ou referme l’écran, une sirène retentit jusqu’au déverrouillage. |
+| 🫧 **Niveau à bulle** | L’accéléromètre caché du Mac dit si une surface est horizontale, au dixième de degré. |
 
 Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou expert, et se commande depuis l'icône en haut de l'écran. Sons de notification au choix pour tous les outils. Les icônes des outils se placent juste à côté de celle de Canif.
 
 **Nouveau dans la 0.4.0 :** 11 nouveaux outils, Encoche complète, nouvelles couleurs du WiFi, beaucoup moins de processeur au repos (environ 5 % → moins de 1 %), sécurité renforcée (hardened runtime, validation des DNS saisis, liens et téléchargements plus sûrs dans les apps web).
 
-## 🇬🇧 The 28 tools
+## 🇬🇧 The 31 tools
 
 | Tool | What it does |
 |---|---|
@@ -70,9 +73,9 @@ Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou exper
 | 🪟 **Dock preview** | Hover over a Dock icon to see its windows, the music playing (Music, Spotify) or a folder. Also with ⌘⇥, thumbnail buttons, scroll gestures and an active-app indicator. |
 | ▦ **Window snapping** | Drag a window to an edge of the screen, or press ⌃⌥ + arrow. |
 | 🎙️ **Dictation** | Hold down a shortcut and speak: the text types itself, no internet needed. Choose your model (Parakeet Ultra/V3/V2, Canary, Whisper Small/Medium/Turbo/Large, SenseVoice), optional AI touch-up. |
-| ✂️ **Cut and paste** | ⌘X then ⌘V to move files in the Finder. |
+| ✂️ **Cut and paste** | ⌘X then ⌘V to move files in the Finder. Pick a sound for ⌘X, ⌘C and ⌘V, on-screen colour flash. |
 | ⇪ **Caps Lock** | See right away when Caps Lock is on. |
-| 🔔 **Web alerts** | Get notified when part of a web page changes. |
+| 🔔 **Web alerts** | Get notified when part of a web page changes. Optional spoken alert. |
 | 🔴 **Microphone and camera** | A badge (custom message and sound) appears as soon as an app turns on your microphone or camera. |
 | 📊 **System** | CPU (performance/efficiency cores), GPU, memory (history, top 10 per category), disks (volumes, activity and a map of what takes up space), network, temperatures, power, battery (cycles, health). Pick what shows in the menu bar. |
 | ⬛️ **Notch** | Coloured cards for music, calendar, sound, keep awake, microphone/camera monitoring, clocks, detailed WiFi, system, web alerts, focus, battery, files and notes. Quick capture, colour picker and window arrangement actions. |
@@ -84,11 +87,14 @@ Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou exper
 | 🎨 **Colour picker** | Grab the colour of any pixel, in the format you need (HEX, RGB, HSL, SwiftUI…), with WCAG contrast. |
 | 🔊 **Sound** | Switch outputs in one click, per-app volume (0–150%) and per-app output, 10-band equaliser (beta). |
 | 🖥️ **External displays** | Set the brightness and volume of your external displays, just like the Mac's. |
-| 🔋 **Battery** | Limit battery charging so it lasts for years. Helper installed with your administrator password; fallback method on some Macs. |
+| 🔋 **Battery** | Limit battery charging so it lasts for years. Helper installed with your administrator password; fallback method on some Macs. Choose your MagSafe LED, optional spoken alert. |
 | 🗑️ **Uninstall** | Uninstall an app and all its hidden files in one go. |
 | 🖱️ **Keyboard and mouse** | Like Mos and SlowQuit: smooth scroll wheel, separate scroll directions, protected ⌘Q and keyboard cleaning. |
 | ⏱️ **Focus** | Work in 25-minute sessions, with real breaks. |
 | 🗒️ **Stickies** | Sticky notes on your desktop, saved automatically (replaces macOS Stickies). |
+| 🪄 **Mods** | The screen creaks like an old door when you open it, the keyboard pulses with music, and the ⇪ light speaks Morse. |
+| 🚨 **Anti-theft** | Arm it as you leave: if someone moves the Mac, unplugs the charger or closes the lid, a siren sounds until it is unlocked. |
+| 🫧 **Spirit level** | The Mac’s hidden accelerometer tells you whether a surface is level, to a tenth of a degree. |
 
 Each tool turns on or off with one click, has standard and expert settings, and is controlled from the icon at the top of the screen. The tools' icons sit right next to Canif's.
 
@@ -96,11 +102,11 @@ Each tool turns on or off with one click, has standard and expert settings, and 
 
 ## 🌍 Other languages
 
-- 🇪🇸 La navaja suiza de su Mac: 28 herramientas en una sola app, en 7 idiomas. → [Sitio](https://xavier38.github.io/canif/)
-- 🇧🇷 O canivete suíço do seu Mac: 28 ferramentas em um só app, em 7 idiomas. → [Site](https://xavier38.github.io/canif/)
-- 🇳🇱 Het Zwitserse zakmes van uw Mac: 28 tools in één app, in 7 talen. → [Website](https://xavier38.github.io/canif/)
-- 🇩🇪 Das Schweizer Taschenmesser für Ihren Mac: 28 Werkzeuge in einer App, in 7 Sprachen. → [Website](https://xavier38.github.io/canif/)
-- 🇮🇹 Il coltellino svizzero del tuo Mac: 28 strumenti in un'unica app, in 7 lingue. → [Sito](https://xavier38.github.io/canif/)
+- 🇪🇸 La navaja suiza de su Mac: 31 herramientas en una sola app, en 7 idiomas. → [Sitio](https://xavier38.github.io/canif/)
+- 🇧🇷 O canivete suíço do seu Mac: 31 ferramentas em um só app, em 7 idiomas. → [Site](https://xavier38.github.io/canif/)
+- 🇳🇱 Het Zwitserse zakmes van uw Mac: 31 tools in één app, in 7 talen. → [Website](https://xavier38.github.io/canif/)
+- 🇩🇪 Das Schweizer Taschenmesser für Ihren Mac: 31 Werkzeuge in einer App, in 7 Sprachen. → [Website](https://xavier38.github.io/canif/)
+- 🇮🇹 Il coltellino svizzero del tuo Mac: 31 strumenti in un'unica app, in 7 lingue. → [Sito](https://xavier38.github.io/canif/)
 
 Langues de l'app / App languages: Français, English, Español, Português (Brasil), Nederlands, Deutsch, Italiano.
 
