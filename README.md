@@ -2,8 +2,8 @@
 
 <h1 align="center">Canif</h1>
 
-<p align="center"><b>Le couteau suisse de votre Mac : 33 outils dans une seule app, gratuite, en 7 langues. Moka est inclus.</b><br>
-Your Mac's Swiss army knife: 33 tools in one free app, in 7 languages. Moka is included.</p>
+<p align="center"><b>Le couteau suisse de votre Mac : 34 outils dans une seule app, gratuite, en 7 langues. Moka est inclus.</b><br>
+Your Mac's Swiss army knife: 34 tools in one free app, in 7 languages. Moka is included.</p>
 
 <p align="center">
 <a href="https://github.com/xavier38/canif/releases/latest/download/Canif.zip"><b>⬇︎ Télécharger / Download Canif.zip</b></a> ·
@@ -12,11 +12,15 @@ Your Mac's Swiss army knife: 33 tools in one free app, in 7 languages. Moka is i
 <a href="https://xavier38.github.io/canif/confidentialite.html">Confidentialité / Privacy</a>
 </p>
 
-<p align="center"><img src="promo-fr.jpg?v=073" width="720" alt="Canif"></p>
+<p align="center"><img src="promo-fr.jpg?v=170" width="720" alt="Canif"></p>
 
-Version 1.6.2 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 1.7.0 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 1.5.0 / What’s new
+## Nouveautés 1.7.0 / What’s new
+
+Réglages selon le réseau WiFi (DNS, volume, son, Garder éveillé), outils masquables du menu. Canif est désormais réservé au Mac. Settings by Wi‑Fi network (DNS, volume, sound, Keep awake), tools can be hidden from the menu. Canif is now Mac only.
+
+## Nouveautés 1.5.0
 
 Nouveaux outils Calendrier et Renommer ; test de débit dans WiFi ; mise en veille programmée ; assombrir autour de la fenêtre en Concentration ; collections du presse-papiers. New Calendar and Rename tools; speed test in Wi‑Fi; sleep timer; dim around the active window in Focus; clipboard collections.
 
@@ -24,7 +28,7 @@ Nouveaux outils Calendrier et Renommer ; test de débit dans WiFi ; mise en veil
 
 Nouveaux outils Antivol, Niveau à bulle et Modding divers (porte qui grince, clavier en musique, morse) ; signaux sur le Mac (vibration du trackpad, voyant ⇪, flash du clavier) pour chaque outil qui prévient ; annonces vocales en option ; LED du MagSafe au choix. New Anti-theft, Spirit level and Mods tools (creaking lid, keyboard that pulses with music, Morse); signals on the Mac (trackpad vibration, ⇪ light, keyboard flash) for every tool that alerts you; optional spoken announcements; choose your MagSafe LED.
 
-## 🇫🇷 Les 33 outils
+## 🇫🇷 Les 34 outils
 
 | Outil | Ce qu'il fait |
 |---|---|
@@ -66,7 +70,7 @@ Chaque outil s'active ou se coupe d'un clic, se règle en mode standard ou exper
 
 **Nouveau dans la 0.4.0 :** 11 nouveaux outils, Encoche complète, nouvelles couleurs du WiFi, beaucoup moins de processeur au repos (environ 5 % → moins de 1 %), sécurité renforcée (hardened runtime, validation des DNS saisis, liens et téléchargements plus sûrs dans les apps web).
 
-## 🇬🇧 The 33 tools
+## 🇬🇧 The 34 tools
 
 | Tool | What it does |
 |---|---|
@@ -110,11 +114,11 @@ Each tool turns on or off with one click, has standard and expert settings, and 
 
 ## 🌍 Other languages
 
-- 🇪🇸 La navaja suiza de su Mac: 33 herramientas en una sola app, en 7 idiomas. → [Sitio](https://xavier38.github.io/canif/)
-- 🇧🇷 O canivete suíço do seu Mac: 33 ferramentas em um só app, em 7 idiomas. → [Site](https://xavier38.github.io/canif/)
-- 🇳🇱 Het Zwitserse zakmes van uw Mac: 33 tools in één app, in 7 talen. → [Website](https://xavier38.github.io/canif/)
-- 🇩🇪 Das Schweizer Taschenmesser für Ihren Mac: 33 Werkzeuge in einer App, in 7 Sprachen. → [Website](https://xavier38.github.io/canif/)
-- 🇮🇹 Il coltellino svizzero del tuo Mac: 33 strumenti in un'unica app, in 7 lingue. → [Sito](https://xavier38.github.io/canif/)
+- 🇪🇸 La navaja suiza de su Mac: 34 herramientas en una sola app, en 7 idiomas. → [Sitio](https://xavier38.github.io/canif/)
+- 🇧🇷 O canivete suíço do seu Mac: 34 ferramentas em um só app, em 7 idiomas. → [Site](https://xavier38.github.io/canif/)
+- 🇳🇱 Het Zwitserse zakmes van uw Mac: 34 tools in één app, in 7 talen. → [Website](https://xavier38.github.io/canif/)
+- 🇩🇪 Das Schweizer Taschenmesser für Ihren Mac: 34 Werkzeuge in einer App, in 7 Sprachen. → [Website](https://xavier38.github.io/canif/)
+- 🇮🇹 Il coltellino svizzero del tuo Mac: 34 strumenti in un'unica app, in 7 lingue. → [Sito](https://xavier38.github.io/canif/)
 
 Langues de l'app / App languages: Français, English, Español, Português (Brasil), Nederlands, Deutsch, Italiano.
 
@@ -124,6 +128,3 @@ Tout reste sur votre Mac. Statistiques d'usage anonymes **désactivées par déf
 
 [☕️ Offrir un café / Buy me a coffee](https://xavier38.github.io/canif/cafe.html)
 
-## Linux et Windows
-
-Canif PC 0.2.0 : 20 outils par système en 7 langues, avec les coins actifs configurables sur Linux et Windows. [Linux](https://xavier38.github.io/canif/linux.html) · [Windows](https://xavier38.github.io/canif/windows.html). Les tableaux distinguent les outils disponibles de ceux à venir.
