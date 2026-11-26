@@ -14,9 +14,13 @@ Your Mac's Swiss army knife: 35 tools in one free app, in 7 languages. Moka is i
 
 <p align="center"><img src="promo-fr.jpg?v=170" width="720" alt="Canif"></p>
 
-Version 1.8.0 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Version 1.8.1 · Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
 
-## Nouveautés 1.8.0 / What’s new
+## Nouveautés 1.8.1 / What’s new
+
+Aperçu du Dock plus fiable (masquage automatique, agrandissement, fenêtres réduites avec leur dernière image) ; santé du SSD dans Système. More reliable Dock preview (auto-hide, magnification, minimized windows show their last image); SSD health in System.
+
+## Nouveautés 1.8.0
 
 Nouvel outil Mode présentation (bureau et Dock cachés, Ne pas déranger, écran allumé, auto avec un projecteur) ; l'Antivol verrouille le Mac quand votre iPhone ou votre Apple Watch s'éloigne ; accueil plus clair. New Presentation mode tool (desktop icons and Dock hidden, Do Not Disturb, screen kept on, automatic with a projector); Anti-theft locks the Mac when your iPhone or Apple Watch moves away; clearer home page.
 
