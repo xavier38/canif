@@ -5,6 +5,22 @@
     <link>https://xavier38.github.io/canif/appcast.xml</link>
     <language>fr</language>
     <item>
+      <title>Canif 1.8.7</title>
+      <pubDate>Fri, 27 Nov 2026 17:44:41 +0100</pubDate>
+      <sparkle:version>202611271743</sparkle:version>
+      <sparkle:shortVersionString>1.8.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink xml:lang="fr">https://xavier38.github.io/canif/notes/1.8.7.fr.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://xavier38.github.io/canif/notes/1.8.7.en.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="es">https://xavier38.github.io/canif/notes/1.8.7.es.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="pt">https://xavier38.github.io/canif/notes/1.8.7.pt.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="nl">https://xavier38.github.io/canif/notes/1.8.7.nl.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="de">https://xavier38.github.io/canif/notes/1.8.7.de.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="it">https://xavier38.github.io/canif/notes/1.8.7.it.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/xavier38/canif/releases/download/v1.8.7/Canif.zip"
+                 type="application/octet-stream" sparkle:edSignature="gzPReIY8Ha6gY4k9QcqDNQMzHWWmTf7HAn1S1/hQI5RZNE4hpeYhb89VEKckZLdV+mZkAfIu/iGo8b9f0OOHAQ==" length="13036511"/>
+    </item>
+    <item>
       <title>Canif 1.8.6</title>
       <pubDate>Fri, 27 Nov 2026 17:32:30 +0100</pubDate>
       <sparkle:version>202611271731</sparkle:version>
